@@ -1,52 +1,314 @@
 [
-  {"number":1,"question":"The table was decorated with a ________ of flowers.","options":["boutique","bouquet","constellation","troupe"],"answer":"bouquet"},
-  {"number":2,"question":"There were a ________ of ships at the quay.","options":["flock","fleet","flight","brood"],"answer":"fleet"},
-  {"number":3,"question":"My father _______ in the Ministry.","options":["work","works","worked","working"],"answer":"works"},
-  {"number":4,"question":"The telephone has ________ again.","options":["rang","rung","ring","ringing"],"answer":"rung"},
-  {"number":5,"question":"In the sentence 'The woman gave her son money,' the indirect object is _______.","options":["woman","gave","her son","money"],"answer":"her son"},
-  {"number":6,"question":"The teacher praised the students. The direct object is _________.","options":["teacher","praised","students","the"],"answer":"students"},
-  {"number":7,"question":"'My father sent me a letter', the direct object is _______.","options":["father","me","sent","a letter"],"answer":"a letter"},
-  {"number":8,"question":"'Mother told the children a story', the indirect object is ________.","options":["mother","the children","a story","told"],"answer":"the children"},
-  {"number":9,"question":"In the sentence 'The cat caught a mouse', the subject is _______.","options":["cat","caught","a mouse","the"],"answer":"cat"},
-  {"number":10,"question":"My father _______ every weekend.","options":["cook","cooked","cooks","cooking"],"answer":"cooks"},
-  {"number":11,"question":"A _______ of musicians performed during the swearing-in ceremony of the president.","options":["choir","group","band","team"],"answer":"band"},
-  {"number":12,"question":"All the girls in the party quarrelled with ______.","options":["each other","one another","themselves","theirselves"],"answer":"one another"},
-  {"number":13,"question":"The principal sent Jessica and ______ on an errand.","options":["myself","himself","I","me"],"answer":"me"},
-  {"number":14,"question":"The baby cried ________ when it was hungry.","options":["loud","loudly","louder","loudest"],"answer":"louder"},
-  {"number":15,"question":"He ______ scrubbed the floor to remove the stains on the tiles.","options":["firmly","hardly","sluggishly","thoroughly"],"answer":"thoroughly"},
-  {"number":16,"question":"Nelly and her brother are always very fond of ______.","options":["one another","themselves","each other","theirself"],"answer":"each other"},
-  {"number":17,"question":"Which sentence contains an adjective?","options":["She danced gracefully","The soup tastes sweet.","The boy runs fast.","They arrived early"],"answer":"They arrived early"},
-  {"number":18,"question":"The family head has always advised every other member to always endeavour to care for _______.","options":["one another","each other","themselves","himself"],"answer":"one another"},
-  {"number":19,"question":"The boy’s father always _____ them to school on a daily basis.","options":["brought","brings","bringing","bring"],"answer":"brings"},
-  {"number":20,"question":"Does your father always _________ his new car?","options":["drives","drove","drive","driving"],"answer":"drive"},
-  {"number":21,"question":"My teacher _______ us ever since the term began.","options":["taught","teaches","has been teaching","has taught"],"answer":"has been teaching"},
-  {"number":22,"question":"He has no money to attend the cinema; ________ his mother will not allow him.","options":["thus","until","when","nevertheless"],"answer":"nevertheless"},
-  {"number":23,"question":"David, Maureen and _______ were invited to a birthday party.","options":["me","I","mine","her"],"answer":"I"},
-  {"number":24,"question":"She must have ______ to the church where all the family members worship.","options":["go","going","gone","went"],"answer":"gone"},
-  {"number":25,"question":"I would like to buy ______ umbrella as it seems rainy season is approaching.","options":["some","a few","an","a"],"answer":"an"},
-  {"number":26,"question":"Mr. Jones _____ visit his children at all times.","options":["goes","wents","go","has gone"],"answer":"goes"},
-  {"number":27,"question":"Tony and Samuel love ______ so much that they are always seen together.","options":["one another","themselves","each other","theirselves"],"answer":"each other"},
-  {"number":28,"question":"I would like you to know that I can tidy up my work _______.","options":["yourself","themselves","myself","herself"],"answer":"myself"},
-  {"number":29,"question":"A _______ of angels are praising thy Lord.","options":["host","group","troupe","team"],"answer":"host"},
-  {"number":30,"question":"The man hid the puppy ______ the table to avoid suspicion.","options":["over","beneath","under","above"],"answer":"under"},
-  {"number":31,"question":"The man pleaded ______ his wife to allow him take his children to school.","options":["on","upon","by","with"],"answer":"with"},
-  {"number":32,"question":"My mom always drives me to school _____ her car.","options":["in","with","on","by"],"answer":"on"},
-  {"number":33,"question":"The girl seems to be _______ today than yesterday.","options":["more neat","very neater","neater","neatest"],"answer":"neater"},
-  {"number":34,"question":"The boy's pair of trousers _______ torn.","options":["is","was","has","are"],"answer":"are"},
-  {"number":35,"question":"An ______ of soldiers took over the city.","options":["army","armoury","array","navy"],"answer":"army"},
-  {"number":36,"question":"No one _______ John's real name now.","options":["knew","knows","know","known"],"answer":"knows"},
-  {"number":37,"question":"My pencil _______ stolen before I woke up.","options":["have been","has been","had been","was being"],"answer":"has been"},
-  {"number":38,"question":"Audu says that he _______ up at 6:00 every morning.","options":["wake","woke","wakes","woken"],"answer":"wakes"},
-  {"number":39,"question":"My mother _______ my sister yesterday.","options":["feeded","feeds","feed","fed"],"answer":"fed"},
-  {"number":40,"question":"Mr. Cooks took Margret, Alice and _____ round the factory.","options":["me","we","I","he"],"answer":"me"},
-  {"number":41,"question":"Tunji divided the money between David and ______.","options":["he","him","himself","themselves"],"answer":"himself"},
-  {"number":42,"question":"Tony is a good friend of ______.","options":["hers","he's","she","we"],"answer":"hers"},
-  {"number":43,"question":"The breakdown of our marriage was no fault of ______.","options":["me","my","mine","I"],"answer":"mine"},
-  {"number":44,"question":"He is almost as big as _______.","options":["I","me","he","she"],"answer":"me"},
-  {"number":45,"question":"If I ______ you, I would do the homework now.","options":["were","was","am","be"],"answer":"were"},
-  {"number":46,"question":"The head teacher came to our classroom but she didn't talk to _____.","options":["somebody","anybody","nobody","no one"],"answer":"anybody"},
-  {"number":47,"question":"I am afraid I _____ not be able to come with you because I am not sure if it would be possible.","options":["may","can","will","shall"],"answer":"may"},
-  {"number":48,"question":"The man _____ to the police station to file a complaint this morning.","options":["will went","must gone","has gone","would went"],"answer":"has gone"},
-  {"number":49,"question":"James and Sam ______ not able to make it to school for they woke quite late.","options":["was","were","is","are"],"answer":"were"},
-  {"number":50,"question":"She enjoys lots of ice-cream _____ her sister doesn’t.","options":["which","what","where","while"],"answer":"while"}
-]
+    {
+      "number": 1,
+      "question": "The study of Basic Technology helps students to.",
+      "options": ["learn foreign languages", "understand how things work", "cook different meals", "play musical instruments"],
+      "answer": "understand how things work"
+    },
+    {
+      "number": 2,
+      "question": "Which of the following is a hand tool?",
+      "options": ["Lathe machine", "Hammer", "Generator", "Electric motor"],
+      "answer": "Hammer"
+    },
+    {
+      "number": 3,
+      "question": "The main sources of energy include all except",
+      "options": ["Solar", "Wind", "Water", "Plastic"],
+      "answer": "Plastic"
+    },
+    {
+      "number": 4,
+      "question": "A person who designs buildings is called?",
+      "options": ["Doctor", "Architect", "Carpenter", "Teacher"],
+      "answer": "Architect"
+    },
+    {
+      "number": 5,
+      "question": "The process of joining two pieces of metal by heating is known as?",
+      "options": ["Casting", "Soldering", "Painting", "Cutting"],
+      "answer": "Soldering"
+    },
+    {
+      "number": 6,
+      "question": "The material used to make electric wires is mostly.",
+      "options": ["Iron", "Copper", "Wood", "Rubber"],
+      "answer": "Copper"
+    },
+    {
+      "number": 7,
+      "question": "The drawing instrument used to draw circles is called.",
+      "options": ["Divider", "Compass", "Set square", "T-square"],
+      "answer": "Compass"
+    },
+    {
+      "number": 8,
+      "question": "Which of these is not a workshop safety rule?",
+      "options": ["Run inside the workshop", "Wear protective clothing", "Keep tools clean after use", "Report damaged tools"],
+      "answer": "Run inside the workshop"
+    },
+    {
+      "number": 9,
+      "question": "The symbol for a battery in circuit diagram is.",
+      "options": ["□", "⊕⊖", "││", "+ −"],
+      "answer": "+ −"
+    },
+    {
+      "number": 10,
+      "question": "The part of a drawing board that holds the paper is called.",
+      "options": ["Tee", "Edge", "Clamp", "Frame"],
+      "answer": "Clamp"
+    },
+    {
+      "number": 11,
+      "question": "The two main types of wood are.",
+      "options": ["Hard and soft wood", "Big and small wood", "Dry and wet wood", "Red and white wood"],
+      "answer": "Hard and soft wood"
+    },
+    {
+      "number": 12,
+      "question": "Metals that can be magnetized are called.",
+      "options": ["Non-ferrous metals", "Ferrous metals", "Soft metals", "Precious metals"],
+      "answer": "Ferrous metals"
+    },
+    {
+      "number": 13,
+      "question": "The safety color for danger is.",
+      "options": ["Blue", "Yellow", "Red", "Green"],
+      "answer": "Red"
+    },
+    {
+      "number": 14,
+      "question": "The process of changing logs into planks is called.",
+      "options": ["Polishing", "Sawing", "Painting", "Planning"],
+      "answer": "Sawing"
+    },
+    {
+      "number": 15,
+      "question": "The major part of a simple electrical circuit includes.",
+      "options": ["Switch, bulb, battery, wire", "Battery, pipe, wheel, glass", "Motor, fan, pipe, bulb", "Fan, radio, light, car"],
+      "answer": "Switch, bulb, battery, wire"
+    },
+    {
+      "number": 16,
+      "question": "A tool used to tighten or loosen nuts is a.",
+      "options": ["Pliers", "Wrench", "Chisel", "Hammer"],
+      "answer": "Wrench"
+    },
+    {
+      "number": 17,
+      "question": "The shape of a drawing board is usually.",
+      "options": ["Circular", "Rectangular", "Triangular", "Oval"],
+      "answer": "Rectangular"
+    },
+    {
+      "number": 18,
+      "question": "Which of the following is a non-metallic material?",
+      "options": ["Iron", "Plastic", "Copper", "Aluminum"],
+      "answer": "Plastic"
+    },
+    {
+      "number": 19,
+      "question": "The act of protecting the body from harm in the workshop is called.",
+      "options": ["Safety", "Drawing", "Woodwork", "Metalwork"],
+      "answer": "Safety"
+    },
+    {
+      "number": 20,
+      "question": "The use of lines, symbols, and measurements to show an object is called.",
+      "options": ["Sketching", "Painting", "Technical drawing", "Coloring"],
+      "answer": "Technical drawing"
+    },
+    {
+      "number": 21,
+      "question": "The instrument used to measure length in millimeters is a.",
+      "options": ["Meter rule", "Protractor", "Compass", "T-square"],
+      "answer": "Meter rule"
+    },
+    {
+      "number": 22,
+      "question": "Which of the following is a renewable source of energy?",
+      "options": ["Coal", "Petrol", "Wind", "Diesel"],
+      "answer": "Wind"
+    },
+    {
+      "number": 23,
+      "question": "The act of melting metal and pouring it into mould is called.",
+      "options": ["Forging", "Casting", "Soldering", "Filing"],
+      "answer": "Casting"
+    },
+    {
+      "number": 24,
+      "question": "The set square is mainly used for drawing.",
+      "options": ["Curves", "Circles", "Angles", "Arcs"],
+      "answer": "Angles"
+    },
+    {
+      "number": 25,
+      "question": "In Basic Technology, ICT means.",
+      "options": ["International Communication Technology", "Information and Communication Technology", "Intelligent Computer Technology", "Integrated Coding Tools"],
+      "answer": "Information and Communication Technology"
+    },
+    {
+      "number": 26,
+      "question": "The branch of science that studies matter in relation to energy is",
+      "options": ["biology", "chemistry", "physics", "agriculture"],
+      "answer": "physics"
+    },
+    {
+      "number": 27,
+      "question": "Living things perform the following functions except",
+      "options": ["movement", "respiration", "saturation", "reproduction"],
+      "answer": "saturation"
+    },
+    {
+      "number": 28,
+      "question": "Anything that has mass and occupies space is known",
+      "options": ["metals", "solid", "liquid", "matter"],
+      "answer": "matter"
+    },
+    {
+      "number": 29,
+      "question": "Matter exists in the following state except",
+      "options": ["solid", "exchange", "liquid", "gas"],
+      "answer": "exchange"
+    },
+    {
+      "number": 30,
+      "question": "The ability of living organism to respond to stimuli is known as",
+      "options": ["irrigation", "nutrition", "respiration", "irritability"],
+      "answer": "irritability"
+    },
+    {
+      "number": 31,
+      "question": "Which of the following best describe science",
+      "options": [
+        "knowledge about natural world based on facts learned through experiments",
+        "basic knowledge about human beings",
+        "knowledge about how to make experiments which we learned at school",
+        "none of the above"
+      ],
+      "answer": "knowledge about natural world based on facts learned through experiments"
+    },
+    {
+      "number": 32,
+      "question": "The process by which plants manufacture their own food in the presence of sunlight is known as",
+      "options": ["transpiration", "photosynthesis", "chemosynthesis", "evaporation"],
+      "answer": "photosynthesis"
+    },
+    {
+      "number": 33,
+      "question": "A good method of disposing refuse is by throwing them",
+      "options": ["inside pit to form compost", "into gutters when it is raining", "into nearby bushes", "on the streets at night"],
+      "answer": "inside pit to form compost"
+    },
+    {
+      "number": 34,
+      "question": "The following are importance of science except",
+      "options": [
+        "it helps in solving everyday problems",
+        "it helps in discovery of natural resources",
+        "it helps in converting raw materials into finished products",
+        "it leads to increase in bullying of other scientist."
+      ],
+      "answer": "it leads to increase in bullying of other scientist."
+    },
+    {
+      "number": 35,
+      "question": "All the following help in the maintenance of good health except",
+      "options": ["eating balanced diet", "avoid drinking alcohol", "smoking cigarettes", "regular exercise"],
+      "answer": "smoking cigarettes"
+    },
+    {
+      "number": 36,
+      "question": "The following are disadvantages of poor personal hygiene except",
+      "options": ["poor health", "body and mouth odor", "spread of diseases", "good health"],
+      "answer": "good health"
+    },
+    {
+      "number": 37,
+      "question": "The process by which ice block changes to water is known as",
+      "options": ["boiling", "condensing", "melting", "freezing"],
+      "answer": "melting"
+    },
+    {
+      "number": 38,
+      "question": "The temperature at which a liquid changes freely into vapor is called its _____ point",
+      "options": ["boiling", "cooling", "vaporizing", "melting"],
+      "answer": "boiling"
+    },
+    {
+      "number": 39,
+      "question": "Which of these is not a major function of food",
+      "options": ["to provide energy", "to sustain life", "to make us fairer", "to make us grow"],
+      "answer": "to make us fairer"
+    },
+    {
+      "number": 40,
+      "question": "The science of preserving and improving health is called",
+      "options": ["hygiene", "cleanliness", "environmental sanitation", "nutrition"],
+      "answer": "hygiene"
+    },
+    {
+      "number": 41,
+      "question": "Which of the following acts should not be encouraged?",
+      "options": ["bath regularly", "keep your environment clean", "litter the environment with refuse", "keep your finger nails clean"],
+      "answer": "litter the environment with refuse"
+    },
+    {
+      "number": 42,
+      "question": "The study of fossil is known as",
+      "options": ["zoology", "paleontology", "botany", "geology"],
+      "answer": "paleontology"
+    },
+    {
+      "number": 43,
+      "question": "A series of steps followed by scientific investigators to answer specific questions about the natural world is known as",
+      "options": ["laws", "theories", "scientific method", "hypothesis"],
+      "answer": "scientific method"
+    },
+    {
+      "number": 44,
+      "question": "A scientific law is always",
+      "options": ["false", "true", "both", "none of the above"],
+      "answer": "true"
+    },
+    {
+      "number": 45,
+      "question": "The branch of science that studies people and social groups is known as",
+      "options": ["Natural science", "life science", "social science", "formal science"],
+      "answer": "social science"
+    },
+    {
+      "number": 46,
+      "question": "The state of matter that is easily compressible is",
+      "options": ["solid", "gaseous", "liquid", "amphoteric"],
+      "answer": "gaseous"
+    },
+    {
+      "number": 47,
+      "question": "The process by which living organism remove metabolic waste product from their body is known as",
+      "options": ["respiration", "excretion", "reproduction", "irritability"],
+      "answer": "excretion"
+    },
+    {
+      "number": 48,
+      "question": "Which of the following is not a characteristics of living things?",
+      "options": ["nutrition", "competition", "malleability", "growth"],
+      "answer": "malleability"
+    },
+    {
+      "number": 49,
+      "question": "The change of state from solid to gaseous state without passing through the liquid state is known as",
+      "options": ["deposition", "sublimation", "evaporation", "melting"],
+      "answer": "sublimation"
+    },
+    {
+      "number": 50,
+      "question": "A group of hypotheses that have been supported with repeated testing is known as",
+      "options": ["law", "theory", "summary", "rules"],
+      "answer": "theory"
+    }
+  ]
+
+
