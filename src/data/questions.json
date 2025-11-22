@@ -1,314 +1,304 @@
 [
+  
     {
       "number": 1,
-      "question": "The study of Basic Technology helps students to.",
-      "options": ["learn foreign languages", "understand how things work", "cook different meals", "play musical instruments"],
-      "answer": "understand how things work"
+      "question": "Factorize x^2-6",
+      "options": ["(x-4)(x+4)", "(x-4)(x-4)", "(x-2)(x+2)", "(x-2)(x-2)"],
+      "answer": "(x-4)(x+4)"
     },
     {
       "number": 2,
-      "question": "Which of the following is a hand tool?",
-      "options": ["Lathe machine", "Hammer", "Generator", "Electric motor"],
-      "answer": "Hammer"
+      "question": "Simplify (12-5a)-(7+6a)",
+      "options": ["5+11a", "5+a", "5-11a", "19-11a"],
+      "answer": "5-11a"
     },
     {
       "number": 3,
-      "question": "The main sources of energy include all except",
-      "options": ["Solar", "Wind", "Water", "Plastic"],
-      "answer": "Plastic"
+      "question": "Factorize 63x^2 y^4-99x^3 y^2",
+      "options": ["3x^2 y(7x^2+11x^2)", "3xy^2 (7x^2-11y^2)", "9x^2 y^2 (7x+11y^2)", "9x^2 y^2 (7y^2-11x)"],
+      "answer": "9x^2 y^2 (7y^2-11x)"
     },
     {
       "number": 4,
-      "question": "A person who designs buildings is called?",
-      "options": ["Doctor", "Architect", "Carpenter", "Teacher"],
-      "answer": "Architect"
+      "question": "What are the factors of 15-2a-a^2?",
+      "options": ["(15-3a)(5a-a)", "(15+a)(3+a)", "(5+a)(3-a)", "(5+a)(3-a)"],
+      "answer": "(5+a)(3-a)"
     },
     {
       "number": 5,
-      "question": "The process of joining two pieces of metal by heating is known as?",
-      "options": ["Casting", "Soldering", "Painting", "Cutting"],
-      "answer": "Soldering"
+      "question": "Expand -3x(2x-3y)",
+      "options": ["-6x^2-9xy", "6x^2-9xy", "-6x^2+9xy", "9xy-6x^2"],
+      "answer": "-6x^2+9xy"
     },
     {
       "number": 6,
-      "question": "The material used to make electric wires is mostly.",
-      "options": ["Iron", "Copper", "Wood", "Rubber"],
-      "answer": "Copper"
+      "question": "Factorize 4a^2-25",
+      "options": ["(2a-5)(2a+5)", "(4a-5)(4a+5)", "(a-5)(a+2)", "(2a-5)^2"],
+      "answer": "(2a-5)(2a+5)"
     },
     {
       "number": 7,
-      "question": "The drawing instrument used to draw circles is called.",
-      "options": ["Divider", "Compass", "Set square", "T-square"],
-      "answer": "Compass"
+      "question": "Solve for x if (4x-3)/9 - x/3 = 5(x-1)/6",
+      "options": ["12", "9/13", "1/2", "1/3"],
+      "answer": "9/13"
     },
     {
       "number": 8,
-      "question": "Which of these is not a workshop safety rule?",
-      "options": ["Run inside the workshop", "Wear protective clothing", "Keep tools clean after use", "Report damaged tools"],
-      "answer": "Run inside the workshop"
+      "question": "In a poultry, the average number of eggs laid daily by a layer is 1. If 20 crates of eggs are gathered in a day, how many layers are in the poultry?",
+      "options": ["300", "350", "500", "600"],
+      "answer": "600"
     },
     {
       "number": 9,
-      "question": "The symbol for a battery in circuit diagram is.",
-      "options": ["□", "⊕⊖", "││", "+ −"],
-      "answer": "+ −"
+      "question": "Find the sectoral angle representing the first son’s money (from pie chart)",
+      "options": ["200", "600", "1620", "1800"],
+      "answer": "1620"
     },
     {
       "number": 10,
-      "question": "The part of a drawing board that holds the paper is called.",
-      "options": ["Tee", "Edge", "Clamp", "Frame"],
-      "answer": "Clamp"
+      "question": "Find the sectoral angle representing the third son’s money (from pie chart)",
+      "options": ["800", "980", "1200", "1900"],
+      "answer": "980"
     },
     {
       "number": 11,
-      "question": "The two main types of wood are.",
-      "options": ["Hard and soft wood", "Big and small wood", "Dry and wet wood", "Red and white wood"],
-      "answer": "Hard and soft wood"
+      "question": "Find the percentage representing the second son’s money, correct to one decimal place.",
+      "options": ["50.0", "27.8", "25.0", "20.5"],
+      "answer": "27.8"
     },
     {
       "number": 12,
-      "question": "Metals that can be magnetized are called.",
-      "options": ["Non-ferrous metals", "Ferrous metals", "Soft metals", "Precious metals"],
-      "answer": "Ferrous metals"
+      "question": "Calculate the percentage respectively the first son’s money.",
+      "options": ["20", "30", "45", "500"],
+      "answer": "30"
     },
     {
       "number": 13,
-      "question": "The safety color for danger is.",
-      "options": ["Blue", "Yellow", "Red", "Green"],
-      "answer": "Red"
+      "question": "Find the mode of the following set of numbers: 6,8,6,4,8,7,5,6,10",
+      "options": ["4", "5", "6", "7"],
+      "answer": "6"
     },
     {
       "number": 14,
-      "question": "The process of changing logs into planks is called.",
-      "options": ["Polishing", "Sawing", "Painting", "Planning"],
-      "answer": "Sawing"
+      "question": "Factorise x^2+x-2",
+      "options": ["(x-2)(x-3)", "(x-1)(x-2)", "(x-1)(x+2)", "(x+1)(x+2)"],
+      "answer": "(x-1)(x+2)"
     },
     {
       "number": 15,
-      "question": "The major part of a simple electrical circuit includes.",
-      "options": ["Switch, bulb, battery, wire", "Battery, pipe, wheel, glass", "Motor, fan, pipe, bulb", "Fan, radio, light, car"],
-      "answer": "Switch, bulb, battery, wire"
+      "question": "Find the median of the following set of numbers: 25, 30,22,24,29,31,26,25,30",
+      "options": ["22", "24", "25", "26"],
+      "answer": "26"
     },
     {
       "number": 16,
-      "question": "A tool used to tighten or loosen nuts is a.",
-      "options": ["Pliers", "Wrench", "Chisel", "Hammer"],
-      "answer": "Wrench"
+      "question": "Which of the following cannot be used to represent data?",
+      "options": ["bar chart", "frequency table", "mean", "pictogram"],
+      "answer": "mean"
     },
     {
       "number": 17,
-      "question": "The shape of a drawing board is usually.",
-      "options": ["Circular", "Rectangular", "Triangular", "Oval"],
-      "answer": "Rectangular"
+      "question": "The average of the numbers 12,40, x, 60 and 20 is 36. Find the value of x.",
+      "options": ["28", "33", "36", "48"],
+      "answer": "48"
     },
     {
       "number": 18,
-      "question": "Which of the following is a non-metallic material?",
-      "options": ["Iron", "Plastic", "Copper", "Aluminum"],
-      "answer": "Plastic"
+      "question": "Find the range of the following set of numbers: 7,2,3,9,5,6,7,12,11,17",
+      "options": ["15", "11", "9", "5"],
+      "answer": "15"
     },
     {
       "number": 19,
-      "question": "The act of protecting the body from harm in the workshop is called.",
-      "options": ["Safety", "Drawing", "Woodwork", "Metalwork"],
-      "answer": "Safety"
+      "question": "Find the product of the median and the range of the following set of numbers: 3,7,5,4,3,2,6,2",
+      "options": ["5.5", "15.6", "17.5", "25.5"],
+      "answer": "17.5"
     },
     {
       "number": 20,
-      "question": "The use of lines, symbols, and measurements to show an object is called.",
-      "options": ["Sketching", "Painting", "Technical drawing", "Coloring"],
-      "answer": "Technical drawing"
+      "question": "How many students wrote the test? (distribution table)",
+      "options": ["35", "43", "45", "50"],
+      "answer": "45"
     },
     {
       "number": 21,
-      "question": "The instrument used to measure length in millimeters is a.",
-      "options": ["Meter rule", "Protractor", "Compass", "T-square"],
-      "answer": "Meter rule"
+      "question": "If the pass mark is 6, how many students passed the test? (distribution table)",
+      "options": ["33", "15", "12", "10"],
+      "answer": "12"
     },
     {
       "number": 22,
-      "question": "Which of the following is a renewable source of energy?",
-      "options": ["Coal", "Petrol", "Wind", "Diesel"],
-      "answer": "Wind"
+      "question": "Evaluate 110_two × 101_two",
+      "options": ["10110_two", "11001_two", "11100_two", "11110_two"],
+      "answer": "11110_two"
     },
     {
       "number": 23,
-      "question": "The act of melting metal and pouring it into mould is called.",
-      "options": ["Forging", "Casting", "Soldering", "Filing"],
-      "answer": "Casting"
+      "question": "Find the simple interest on N20,000.00 for 3 years at 5% per annum",
+      "options": ["N3,000.00", "N3,500.00", "N4,000.00", "N4,200.00"],
+      "answer": "N3,000.00"
     },
     {
       "number": 24,
-      "question": "The set square is mainly used for drawing.",
-      "options": ["Curves", "Circles", "Angles", "Arcs"],
-      "answer": "Angles"
+      "question": "Find the value of cos 45° (use tables)",
+      "options": ["0.5736", "0.7071", "1.7586", "1.8452"],
+      "answer": "0.7071"
     },
     {
       "number": 25,
-      "question": "In Basic Technology, ICT means.",
-      "options": ["International Communication Technology", "Information and Communication Technology", "Intelligent Computer Technology", "Integrated Coding Tools"],
-      "answer": "Information and Communication Technology"
+      "question": "Find the value of tan 35° (use tables)",
+      "options": ["1.8452", "0.8192", "0.7002", "0.5732"],
+      "answer": "0.8192"
     },
     {
       "number": 26,
-      "question": "The branch of science that studies matter in relation to energy is",
-      "options": ["biology", "chemistry", "physics", "agriculture"],
-      "answer": "physics"
+      "question": "Convert 1111_two to denary",
+      "options": ["15", "14", "13", "12"],
+      "answer": "15"
     },
     {
       "number": 27,
-      "question": "Living things perform the following functions except",
-      "options": ["movement", "respiration", "saturation", "reproduction"],
-      "answer": "saturation"
+      "question": "Subtract 111_two from 1110_two",
+      "options": ["11_two", "101_two", "110_two", "111_two"],
+      "answer": "101_two"
     },
     {
       "number": 28,
-      "question": "Anything that has mass and occupies space is known",
-      "options": ["metals", "solid", "liquid", "matter"],
-      "answer": "matter"
+      "question": "Find the interest on N40,000.00 for 2 years at 20% per annum compound interest.",
+      "options": ["N8,000.00", "N9,600.00", "N17,600.00", "N49,600.00"],
+      "answer": "N17,600.00"
     },
     {
       "number": 29,
-      "question": "Matter exists in the following state except",
-      "options": ["solid", "exchange", "liquid", "gas"],
-      "answer": "exchange"
+      "question": "Factorise ef+df-dg-eg",
+      "options": ["(e-d)(f+g)", "(e-d)(f-g)", "(e+d)(f-g)", "(e+d)(f+g)"],
+      "answer": "(e-d)(f+g)"
     },
     {
       "number": 30,
-      "question": "The ability of living organism to respond to stimuli is known as",
-      "options": ["irrigation", "nutrition", "respiration", "irritability"],
-      "answer": "irritability"
+      "question": "Expand: -3x(-4p+7n)",
+      "options": ["12xp+21xn", "12xp-21xn", "12xp-10xp", "-12xp-21xn"],
+      "answer": "12xp-21xn"
     },
     {
       "number": 31,
-      "question": "Which of the following best describe science",
-      "options": [
-        "knowledge about natural world based on facts learned through experiments",
-        "basic knowledge about human beings",
-        "knowledge about how to make experiments which we learned at school",
-        "none of the above"
-      ],
-      "answer": "knowledge about natural world based on facts learned through experiments"
+      "question": "Simplify (x+1)(x-1)+2x^2",
+      "options": ["2x^2-1", "2x^2+1", "3x^2-1", "3x^2+1"],
+      "answer": "3x^2-1"
     },
     {
       "number": 32,
-      "question": "The process by which plants manufacture their own food in the presence of sunlight is known as",
-      "options": ["transpiration", "photosynthesis", "chemosynthesis", "evaporation"],
-      "answer": "photosynthesis"
+      "question": "If 45 is added to a certain number and the result is divided by 9, the quotient is 8. What is the number?",
+      "options": ["12", "19", "25", "27"],
+      "answer": "27"
     },
     {
       "number": 33,
-      "question": "A good method of disposing refuse is by throwing them",
-      "options": ["inside pit to form compost", "into gutters when it is raining", "into nearby bushes", "on the streets at night"],
-      "answer": "inside pit to form compost"
+      "question": "Factorise 32x^2 y-8yz^2",
+      "options": ["8y(2x-z)", "8y(2x+z)", "8y(2x-z)(2x+z)", "8y(2x+z)(2x+z)"],
+      "answer": "8y(2x-z)"
     },
     {
       "number": 34,
-      "question": "The following are importance of science except",
-      "options": [
-        "it helps in solving everyday problems",
-        "it helps in discovery of natural resources",
-        "it helps in converting raw materials into finished products",
-        "it leads to increase in bullying of other scientist."
-      ],
-      "answer": "it leads to increase in bullying of other scientist."
+      "question": "Solve the equation 8/4 (x-2) = 1/10",
+      "options": ["10", "18", "20", "22"],
+      "answer": "22"
     },
     {
       "number": 35,
-      "question": "All the following help in the maintenance of good health except",
-      "options": ["eating balanced diet", "avoid drinking alcohol", "smoking cigarettes", "regular exercise"],
-      "answer": "smoking cigarettes"
+      "question": "Expand (n+5)(n-4)",
+      "options": ["n^2+n+20", "n^2+n-20", "n^2-9n-20", "n^2-n-20"],
+      "answer": "n^2-n-20"
     },
     {
       "number": 36,
-      "question": "The following are disadvantages of poor personal hygiene except",
-      "options": ["poor health", "body and mouth odor", "spread of diseases", "good health"],
-      "answer": "good health"
+      "question": "Solve the equation (5p-4)/3 = p+2",
+      "options": ["2", "3", "4", "5"],
+      "answer": "5"
     },
     {
       "number": 37,
-      "question": "The process by which ice block changes to water is known as",
-      "options": ["boiling", "condensing", "melting", "freezing"],
-      "answer": "melting"
+      "question": "Solve 2/(y-3) = 4/(3y+5)",
+      "options": ["-22", "-11", "-2", "2"],
+      "answer": "-11"
     },
     {
       "number": 38,
-      "question": "The temperature at which a liquid changes freely into vapor is called its _____ point",
-      "options": ["boiling", "cooling", "vaporizing", "melting"],
-      "answer": "boiling"
+      "question": "If 12 is the mean of the following set of numbers: 12,10, x, 8,10, find the value of x",
+      "options": ["12", "15", "20", "40"],
+      "answer": "20"
     },
     {
       "number": 39,
-      "question": "Which of these is not a major function of food",
-      "options": ["to provide energy", "to sustain life", "to make us fairer", "to make us grow"],
-      "answer": "to make us fairer"
+      "question": "Solve the equation 1/(a-5) = 1/5",
+      "options": ["5", "7", "10", "15"],
+      "answer": "10"
     },
     {
       "number": 40,
-      "question": "The science of preserving and improving health is called",
-      "options": ["hygiene", "cleanliness", "environmental sanitation", "nutrition"],
-      "answer": "hygiene"
+      "question": "How many students scored 58 or more? (given scores list)",
+      "options": ["5", "8", "13", "15"],
+      "answer": "13"
     },
     {
       "number": 41,
-      "question": "Which of the following acts should not be encouraged?",
-      "options": ["bath regularly", "keep your environment clean", "litter the environment with refuse", "keep your finger nails clean"],
-      "answer": "litter the environment with refuse"
+      "question": "What is the range? (given scores list)",
+      "options": ["19", "29", "39", "51"],
+      "answer": "19"
     },
     {
       "number": 42,
-      "question": "The study of fossil is known as",
-      "options": ["zoology", "paleontology", "botany", "geology"],
-      "answer": "paleontology"
+      "question": "If 60 is the pass mark, how many students failed? (given scores list)",
+      "options": ["5", "6", "7", "8"],
+      "answer": "8"
     },
     {
       "number": 43,
-      "question": "A series of steps followed by scientific investigators to answer specific questions about the natural world is known as",
-      "options": ["laws", "theories", "scientific method", "hypothesis"],
-      "answer": "scientific method"
+      "question": "Find the difference between the range and the mean of the given set of numbers: 2,4,6,8,9,10,11,14",
+      "options": ["2", "4", "8", "11"],
+      "answer": "4"
     },
     {
       "number": 44,
-      "question": "A scientific law is always",
-      "options": ["false", "true", "both", "none of the above"],
-      "answer": "true"
+      "question": "If N200,000.00 is saved at simple interest of 5% per annum, calculate the total amount after 4 years.",
+      "options": ["N40,000.00", "N210,000.00", "N240,000.00", "N300,000.00"],
+      "answer": "N240,000.00"
     },
     {
       "number": 45,
-      "question": "The branch of science that studies people and social groups is known as",
-      "options": ["Natural science", "life science", "social science", "formal science"],
-      "answer": "social science"
+      "question": "Express 42_seven in base ten",
+      "options": ["12", "18", "24", "30"],
+      "answer": "30"
     },
     {
       "number": 46,
-      "question": "The state of matter that is easily compressible is",
-      "options": ["solid", "gaseous", "liquid", "amphoteric"],
-      "answer": "gaseous"
+      "question": "Which of the following fractions is a recurring decimal?",
+      "options": ["1/10", "1/5", "1/4", "1/3"],
+      "answer": "1/3"
     },
     {
       "number": 47,
-      "question": "The process by which living organism remove metabolic waste product from their body is known as",
-      "options": ["respiration", "excretion", "reproduction", "irritability"],
-      "answer": "excretion"
+      "question": "Subtract 11 from 111 in base two",
+      "options": ["100_two", "1001_two", "1010_two", "1100_two"],
+      "answer": "100_two"
     },
     {
       "number": 48,
-      "question": "Which of the following is not a characteristics of living things?",
-      "options": ["nutrition", "competition", "malleability", "growth"],
-      "answer": "malleability"
+      "question": "Multiply 110_two by 11_two",
+      "options": ["1101_two", "1110_two", "1111_two", "10010_two"],
+      "answer": "10010_two"
     },
     {
       "number": 49,
-      "question": "The change of state from solid to gaseous state without passing through the liquid state is known as",
-      "options": ["deposition", "sublimation", "evaporation", "melting"],
-      "answer": "sublimation"
+      "question": "Expand (2x+3)^2",
+      "options": ["4x^2+12x+9", "4x^2+6x+9", "x^2+6x+9", "4x^2+9"],
+      "answer": "4x^2+12x+9"
     },
     {
       "number": 50,
-      "question": "A group of hypotheses that have been supported with repeated testing is known as",
-      "options": ["law", "theory", "summary", "rules"],
-      "answer": "theory"
+      "question": "Factorise: 1/2 x^2 y^2 - 1/2 xy^2",
+      "options": ["1/2 xy(x^2 - 1/2 y)", "1/2 xy^2 (x-1)", "1/2 xy(y-x)", "x^2 y^2 (1/2 - xy)"],
+      "answer": "1/2 xy^2 (x-1)"
     }
-  ]
-
-
+  
+]
