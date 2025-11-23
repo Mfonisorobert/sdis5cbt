@@ -17,8 +17,8 @@
         {
           "number": 3,
           "question": "The lawyer’s evidence was <u>credible</u>, while the witness’s account seemed completely _____.",
-          "options": ["genuine", "believable", "authentic", "alse", "valid"],
-          "answer": "alse"
+          "options": ["genuine", "believable", "authentic", "false", "valid"],
+          "answer": "false"
         },
         {
           "number": 4,
