@@ -1,304 +1,429 @@
 [
-  
     {
-      "number": 1,
-      "question": "Factorize x^2-6",
-      "options": ["(x-4)(x+4)", "(x-4)(x-4)", "(x-2)(x+2)", "(x-2)(x-2)"],
-      "answer": "(x-4)(x+4)"
+      "instruction": "From the words lettered A to D, choose the word or group of words that is OPPOSITE IN MEANING to the underlined expression as it is used in the sentence.",
+      "questions": [
+        {
+          "number": 1,
+          "question": "The principal ordered the teachers to be <u>vigilant</u>, not _____, during examination periods.",
+          "options": ["watchful", "negligent", "observant", "alert", "active"],
+          "answer": "negligent"
+        },
+        {
+          "number": 2,
+          "question": "Her remarks were meant to <u>incite</u> anger, not to _____.",
+          "options": ["provoke", "awaken", "appease", "excite", "inspire"],
+          "answer": "appease"
+        },
+        {
+          "number": 3,
+          "question": "The lawyer’s evidence was <u>credible</u>, while the witness’s account seemed completely _____.",
+          "options": ["genuine", "believable", "authentic", "alse", "valid"],
+          "answer": "alse"
+        },
+        {
+          "number": 4,
+          "question": "The commander instructed his troops to <u>advance</u>, but the frightened soldiers began to _____.",
+          "options": ["withdraw", "retreat", "hide", "scatter", "regroup"],
+          "answer": "retreat"
+        },
+        {
+          "number": 5,
+          "question": "The hall remained <u>silent</u> even after the announcement that was expected to make people _____.",
+          "options": ["angry", "restless", "cheerful", "talkative", "excited"],
+          "answer": "excited"
+        },
+        {
+          "number": 6,
+          "question": "The professor’s lecture was <u>lucid</u>, unlike the last one which was completely _____.",
+          "options": ["complex", "dull", "obscure", "long", "vague"],
+          "answer": "obscure"
+        },
+        {
+          "number": 7,
+          "question": "The priest reminded the congregation that the way to peace is not through <u>hatred</u> but through _____.",
+          "options": ["anger", "faith", "love", "kindness", "mercy"],
+          "answer": "love"
+        },
+        {
+          "number": 8,
+          "question": "The community was once <u>prosperous</u>, but years of poor governance made it _____.",
+          "options": ["barren", "wealthy", "desolate", "impoverished", "quiet"],
+          "answer": "impoverished"
+        },
+        {
+          "number": 9,
+          "question": "The lecturer warned that plagiarism would lead to <u>punishment</u>, but original work would be _____.",
+          "options": ["rejected", "praised", "corrected", "ignored", "dismissed"],
+          "answer": "praised"
+        },
+        {
+          "number": 10,
+          "question": "The manager said that any act of <u>defiance</u> would not be tolerated, only total _____ would be accepted.",
+          "options": ["obedience", "silence", "loyalty", "discipline", "honesty"],
+          "answer": "obedience"
+        },
+        {
+          "number": 11,
+          "question": "The politician’s speech was <u>spontaneous</u>, unlike his previous ones which sounded carefully _____.",
+          "options": ["prepared", "genuine", "relaxed", "passionate", "natural"],
+          "answer": "prepared"
+        }
+      ]
     },
     {
-      "number": 2,
-      "question": "Simplify (12-5a)-(7+6a)",
-      "options": ["5+11a", "5+a", "5-11a", "19-11a"],
-      "answer": "5-11a"
+      "instruction": "From the words lettered A to E, choose the word that best completes each of the following sentences.",
+      "questions": [
+        {
+          "number": 12,
+          "question": "The director insisted that every invoice must be fully ______ so that the auditors can verify the claim.",
+          "options": ["complied", "accounted", "rejected", "processed", "verified"],
+          "answer": "verified"
+        },
+        {
+          "number": 13,
+          "question": "The lecturer reminded students to submit their projects by Friday, failing which they would be ______ for non-compliance.",
+          "options": ["rewarded", "exempted", "excused", "sanctioned", "applauded"],
+          "answer": "sanctioned"
+        },
+        {
+          "number": 14,
+          "question": "In spite of the heavy storm, the rural road remained ______ and accessible to the villagers.",
+          "options": ["impassable", "blocked", "navigable", "flooded", "isolated"],
+          "answer": "navigable"
+        },
+        {
+          "number": 15,
+          "question": "The film’s narrative was so ______ that many viewers found it difficult to follow the sequence of events.",
+          "options": ["coherent", "lucid", "convoluted", "crystal-clear", "transparent"],
+          "answer": "convoluted"
+        },
+        {
+          "number": 16,
+          "question": "The scientist’s theory was initially ______ but rapidly gained acceptance in the academic community.",
+          "options": ["discredited", "validated", "dismissed", "accepted", "acknowledged"],
+          "answer": "dismissed"
+        },
+        {
+          "number": 17,
+          "question": "The government launched an initiative to ______ the gap between urban and rural education standards.",
+          "options": ["widen", "abolish", "diminish", "deepen", "strengthen"],
+          "answer": "diminish"
+        },
+        {
+          "number": 18,
+          "question": "His performance was so ______ that the manager had no hesitation in promoting him.",
+          "options": ["mediocre", "outstanding", "average", "ordinary", "negligible"],
+          "answer": "outstanding"
+        },
+        {
+          "number": 19,
+          "question": "The artist’s latest work is truly ______, combining tradition with a bold modern vision.",
+          "options": ["derivative", "trite", "innovative", "conventional", "predictable"],
+          "answer": "innovative"
+        },
+        {
+          "number": 20,
+          "question": "Despite the initial resistance, the new policy proved to be ______ and improved efficiency substantially.",
+          "options": ["ineffective", "counterproductive", "fruitful", "abortive", "inefficient"],
+          "answer": "fruitful"
+        },
+        {
+          "number": 21,
+          "question": "She preferred to work in a______ environment, away from the noise and constant interruptions of the city.",
+          "options": ["chaotic", "serene", "turbulent", "frenetic", "hectic"],
+          "answer": "serene"
+        },
+        {
+          "number": 22,
+          "question": "The board stressed that any form of ______ will not be tolerated and appropriate measures will be taken.",
+          "options": ["integrity", "dishonesty", "transparency", "honesty", "accountability"],
+          "answer": "dishonesty"
+        },
+        {
+          "number": 23,
+          "question": "The children were taught to show ______ for their elders, not to challenge every decision made for them.",
+          "options": ["deference", "contempt", "defiance", "resistance", "disregard"],
+          "answer": "deference"
+        },
+        {
+          "number": 24,
+          "question": "His health improved steadily once he adopted a ______ lifestyle, abstaining from previous excesses.",
+          "options": ["decadent", "indulgent", "hardy", "temperate", "extravagant"],
+          "answer": "temperate"
+        }
+      ]
     },
     {
-      "number": 3,
-      "question": "Factorize 63x^2 y^4-99x^3 y^2",
-      "options": ["3x^2 y(7x^2+11x^2)", "3xy^2 (7x^2-11y^2)", "9x^2 y^2 (7x+11y^2)", "9x^2 y^2 (7y^2-11x)"],
-      "answer": "9x^2 y^2 (7y^2-11x)"
+      "instruction": "After each of the following sentences, a list of possible interpretations of the sentence is given. Choose the interpretation that you consider most appropriate for each sentence.",
+      "questions": [
+        {
+          "number": 25,
+          "question": "Even though the athlete was favoured to win, he came home with nothing but the consolation prize. This means that he",
+          "options": ["arrived too late to compete", "won only the lesser award", "refused to accept the medal", "dominated the competition", "refused to participate"],
+          "answer": "won only the lesser award"
+        },
+        {
+          "number": 26,
+          "question": "The manager told the team that their efforts were only the tip of the iceberg. This implies that their efforts were",
+          "options": ["completely wasted", "just a small part of the whole", "the final result of many months’ work", "unlawful and hidden", "greater than what they had done"],
+          "answer": "just a small part of the whole"
+        },
+        {
+          "number": 27,
+          "question": "After the scandal broke, the company was under the microscope. This means the company was",
+          "options": ["allowed to operate freely", "closely examined", "given a microscope for research", "unaware of the scrutiny", "praised publicly"],
+          "answer": "closely examined"
+        },
+        {
+          "number": 28,
+          "question": "When the teacher said “let’s call it a day,” she meant that the class would",
+          "options": ["start a new topic", "continue until late night", "stop for the day’s work", "revise previous lessons", "have extra homework"],
+          "answer": "stop for the day’s work"
+        },
+        {
+          "number": 29,
+          "question": "His boss warned him that he was skating on thin ice. This means he was",
+          "options": ["confidently doing his work", "breaking the rules intentionally", "in a risky position", "planning to skate at the weekend", "supervising a skating rink"],
+          "answer": "in a risky position"
+        },
+        {
+          "number": 30,
+          "question": "The author’s new novel shook the literary world to its foundations. This means it",
+          "options": ["had no impact at all", "only pleased casual readers", "greatly disturbed or changed the literature field", "was entirely ignored by critics", "was read only by children"],
+          "answer": "greatly disturbed or changed the literature field"
+        },
+        {
+          "number": 31,
+          "question": "When she said she would hit the sack, she meant she would",
+          "options": ["start boxing", "go to sleep", "pack her belongings", "stop working at the sack factory", "go on a diet"],
+          "answer": "go to sleep"
+        },
+        {
+          "number": 32,
+          "question": "The politician’s attempt to sweep the issue under the carpet meant he was trying to",
+          "options": ["clean up the mess", "make sure everyone knew about it", "hide the problem", "make the carpet colourful", "apologise publicly"],
+          "answer": "hide the problem"
+        },
+        {
+          "number": 33,
+          "question": "He realised that he had bitten off more than he could chew. This means that he",
+          "options": ["prepared well for the challenge", "accepted a task too difficult for him", "chewed his food very quickly", "ignored the assignment altogether", "promised more than he could deliver"],
+          "answer": "accepted a task too difficult for him"
+        }
+      ]
     },
     {
-      "number": 4,
-      "question": "What are the factors of 15-2a-a^2?",
-      "options": ["(15-3a)(5a-a)", "(15+a)(3+a)", "(5+a)(3-a)", "(5+a)(3-a)"],
-      "answer": "(5+a)(3-a)"
+      "instruction": "From the words lettered A–E below each of the following sentences, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentences.",
+      "questions": [
+        {
+          "number": 34,
+          "question": "The governor’s speech was filled with <u>platitudes</u> that failed to inspire the restless crowd.",
+          "options": ["praises", "clichés", "arguments", "confessions", "compliments"],
+          "answer": "clichés"
+        },
+        {
+          "number": 35,
+          "question": "The witness gave a <u>candid</u> account of the events leading to the accident.",
+          "options": ["deceitful", "honest", "calculated", "secretive", "rehearsed"],
+          "answer": "honest"
+        },
+        {
+          "number": 36,
+          "question": "Her tone was <u>caustic</u>, leaving no doubt that she was deeply offended by his remarks.",
+          "options": ["bitter", "mild", "humorous", "respectful", "careless"],
+          "answer": "bitter"
+        },
+        {
+          "number": 37,
+          "question": "The detective’s <u>astute</u> observation helped solve a case that had baffled others for months.",
+          "options": ["dull", "shrewd", "lazy", "indifferent", "reckless"],
+          "answer": "shrewd"
+        },
+        {
+          "number": 38,
+          "question": "Despite his wealth, he lived a <u>spartan</u> life, avoiding luxury and comfort.",
+          "options": ["austere", "indulgent", "lavish", "extravagant", "comfortable"],
+          "answer": "austere"
+        },
+        {
+          "number": 39,
+          "question": "The lecture was so <u>tedious</u> that half the students struggled to stay awake.",
+          "options": ["interesting", "boring", "confusing", "exciting", "stimulating"],
+          "answer": "boring"
+        },
+        {
+          "number": 40,
+          "question": "Her <u>equanimity</u> under pressure impressed even her harshest critics.",
+          "options": ["anxiety", "nervousness", "calmness", "pride", "restlessness"],
+          "answer": "calmness"
+        },
+        {
+          "number": 41,
+          "question": "The novel’s <u>enigmatic</u> ending left readers debating its true meaning.",
+          "options": ["puzzling", "clear", "joyful", "predictable", "satisfying"],
+          "answer": "puzzling"
+        },
+        {
+          "number": 42,
+          "question": "The community honoured the philanthropist for his <u>munificent</u> donations to education.",
+          "options": ["delayed", "reluctant", "generous", "modest", "meager"],
+          "answer": "generous"
+        },
+        {
+          "number": 43,
+          "question": "His <u>impecunious</u> background did not stop him from aspiring to greatness.",
+          "options": ["poor", "wealthy", "humble", "fortunate", "respected"],
+          "answer": "wealthy"
+        }
+      ]
     },
     {
-      "number": 5,
-      "question": "Expand -3x(2x-3y)",
-      "options": ["-6x^2-9xy", "6x^2-9xy", "-6x^2+9xy", "9xy-6x^2"],
-      "answer": "-6x^2+9xy"
+      "instruction": "Instructions: From the words lettered A to E, choose the word that has the same vowel sound as the one represented by the letter(s) underlined.",
+      "questions": [
+        {
+          "number": 44,
+          "question": "w<u>o</u>men",
+          "options": ["red", "rid", "bead", "cool", "weed"],
+          "answer": "rid"
+        },
+        {
+          "number": 45,
+          "question": "s<u>ea</u>t",
+          "options": ["sit", "meat", "said", "bet", "beach"],
+          "answer": "sit"
+        },
+        {
+          "number": 46,
+          "question": "b<u>a</u>nk",
+          "options": ["sang", "cart", "dark", "hand", "sand"],
+          "answer": "sang"
+        }
+      ]
     },
     {
-      "number": 6,
-      "question": "Factorize 4a^2-25",
-      "options": ["(2a-5)(2a+5)", "(4a-5)(4a+5)", "(a-5)(a+2)", "(2a-5)^2"],
-      "answer": "(2a-5)(2a+5)"
+      "instruction": "Instructions: From the words lettered A to E, choose the word that has the same consonant sound as the one represented by the letter(s) underlined.",
+      "questions": [
+        {
+          "number": 47,
+          "question": "<u>ph</u>one",
+          "options": ["fan", "graph", "tough", "cough", "vine"],
+          "answer": "fan"
+        },
+        {
+          "number": 48,
+          "question": "<u>th</u>ink",
+          "options": ["though", "path", "that", "their", "then"],
+          "answer": "path"
+        },
+        {
+          "number": 49,
+          "question": "si<u>gn</u>",
+          "options": ["reign", "ring", "gnash", "gnat", "night"],
+          "answer": "ring"
+        }
+      ]
     },
     {
-      "number": 7,
-      "question": "Solve for x if (4x-3)/9 - x/3 = 5(x-1)/6",
-      "options": ["12", "9/13", "1/2", "1/3"],
-      "answer": "9/13"
+      "instruction": "Instructions: Choose from the options lettered A to E the one that rhymes with the given word.",
+      "questions": [
+        {
+          "number": 50,
+          "question": "mate",
+          "options": ["faith", "great", "height", "heart", "late"],
+          "answer": "late"
+        },
+        {
+          "number": 51,
+          "question": "suite",
+          "options": ["suit", "sweet", "suitor", "soothe", "sweat"],
+          "answer": "sweet"
+        },
+        {
+          "number": 52,
+          "question": "bare",
+          "options": ["care", "hear", "fear", "pear", "cheer"],
+          "answer": "cheer"
+        }
+      ]
     },
     {
-      "number": 8,
-      "question": "In a poultry, the average number of eggs laid daily by a layer is 1. If 20 crates of eggs are gathered in a day, how many layers are in the poultry?",
-      "options": ["300", "350", "500", "600"],
-      "answer": "600"
+      "instruction": "Instructions: Choose from the options lettered A to E the one that shows the correct stress pattern for the word given, or the word that differs in stress pattern.",
+      "questions": [
+        {
+          "number": 53,
+          "question": "Fluency",
+          "options": ["flu-EN-cy", "flu-en-CY", "flu-en-cy", "FLU-en-cy", "flu-en-Cy"],
+          "answer": "FLU-en-cy"
+        },
+        {
+          "number": 54,
+          "question": "Category",
+          "options": ["CA-te-go-ry", "Ca-TE-go-ry", "Ca-te-GO-ry", "Ca-te-go-RY", "Ca-te-go-ry"],
+          "answer": "CA-te-go-ry"
+        }
+      ]
     },
     {
-      "number": 9,
-      "question": "Find the sectoral angle representing the first son’s money (from pie chart)",
-      "options": ["200", "600", "1620", "1800"],
-      "answer": "1620"
+      "instruction": "Instructions: In the following options, all the words except one have the same stress pattern. Identify the one with a different stress pattern.",
+      "questions": [
+        {
+          "number": 55,
+          "options": ["beauty", "market", "forest", "garage", "teacher"],
+          "answer": "garage"
+        },
+        {
+          "number": 56,
+          "options": ["market", "product", "report", "mountain", "farmer"],
+          "answer": "report"
+        },
+        {
+          "number": 57,
+          "options": ["academic", "economic", "photographic", "arithmetic", "domestic"],
+          "answer": "arithmetic"
+        }
+      ]
     },
     {
-      "number": 10,
-      "question": "Find the sectoral angle representing the third son’s money (from pie chart)",
-      "options": ["800", "980", "1200", "1900"],
-      "answer": "980"
-    },
-    {
-      "number": 11,
-      "question": "Find the percentage representing the second son’s money, correct to one decimal place.",
-      "options": ["50.0", "27.8", "25.0", "20.5"],
-      "answer": "27.8"
-    },
-    {
-      "number": 12,
-      "question": "Calculate the percentage respectively the first son’s money.",
-      "options": ["20", "30", "45", "500"],
-      "answer": "30"
-    },
-    {
-      "number": 13,
-      "question": "Find the mode of the following set of numbers: 6,8,6,4,8,7,5,6,10",
-      "options": ["4", "5", "6", "7"],
-      "answer": "6"
-    },
-    {
-      "number": 14,
-      "question": "Factorise x^2+x-2",
-      "options": ["(x-2)(x-3)", "(x-1)(x-2)", "(x-1)(x+2)", "(x+1)(x+2)"],
-      "answer": "(x-1)(x+2)"
-    },
-    {
-      "number": 15,
-      "question": "Find the median of the following set of numbers: 25, 30,22,24,29,31,26,25,30",
-      "options": ["22", "24", "25", "26"],
-      "answer": "26"
-    },
-    {
-      "number": 16,
-      "question": "Which of the following cannot be used to represent data?",
-      "options": ["bar chart", "frequency table", "mean", "pictogram"],
-      "answer": "mean"
-    },
-    {
-      "number": 17,
-      "question": "The average of the numbers 12,40, x, 60 and 20 is 36. Find the value of x.",
-      "options": ["28", "33", "36", "48"],
-      "answer": "48"
-    },
-    {
-      "number": 18,
-      "question": "Find the range of the following set of numbers: 7,2,3,9,5,6,7,12,11,17",
-      "options": ["15", "11", "9", "5"],
-      "answer": "15"
-    },
-    {
-      "number": 19,
-      "question": "Find the product of the median and the range of the following set of numbers: 3,7,5,4,3,2,6,2",
-      "options": ["5.5", "15.6", "17.5", "25.5"],
-      "answer": "17.5"
-    },
-    {
-      "number": 20,
-      "question": "How many students wrote the test? (distribution table)",
-      "options": ["35", "43", "45", "50"],
-      "answer": "45"
-    },
-    {
-      "number": 21,
-      "question": "If the pass mark is 6, how many students passed the test? (distribution table)",
-      "options": ["33", "15", "12", "10"],
-      "answer": "12"
-    },
-    {
-      "number": 22,
-      "question": "Evaluate 110_two × 101_two",
-      "options": ["10110_two", "11001_two", "11100_two", "11110_two"],
-      "answer": "11110_two"
-    },
-    {
-      "number": 23,
-      "question": "Find the simple interest on N20,000.00 for 3 years at 5% per annum",
-      "options": ["N3,000.00", "N3,500.00", "N4,000.00", "N4,200.00"],
-      "answer": "N3,000.00"
-    },
-    {
-      "number": 24,
-      "question": "Find the value of cos 45° (use tables)",
-      "options": ["0.5736", "0.7071", "1.7586", "1.8452"],
-      "answer": "0.7071"
-    },
-    {
-      "number": 25,
-      "question": "Find the value of tan 35° (use tables)",
-      "options": ["1.8452", "0.8192", "0.7002", "0.5732"],
-      "answer": "0.8192"
-    },
-    {
-      "number": 26,
-      "question": "Convert 1111_two to denary",
-      "options": ["15", "14", "13", "12"],
-      "answer": "15"
-    },
-    {
-      "number": 27,
-      "question": "Subtract 111_two from 1110_two",
-      "options": ["11_two", "101_two", "110_two", "111_two"],
-      "answer": "101_two"
-    },
-    {
-      "number": 28,
-      "question": "Find the interest on N40,000.00 for 2 years at 20% per annum compound interest.",
-      "options": ["N8,000.00", "N9,600.00", "N17,600.00", "N49,600.00"],
-      "answer": "N17,600.00"
-    },
-    {
-      "number": 29,
-      "question": "Factorise ef+df-dg-eg",
-      "options": ["(e-d)(f+g)", "(e-d)(f-g)", "(e+d)(f-g)", "(e+d)(f+g)"],
-      "answer": "(e-d)(f+g)"
-    },
-    {
-      "number": 30,
-      "question": "Expand: -3x(-4p+7n)",
-      "options": ["12xp+21xn", "12xp-21xn", "12xp-10xp", "-12xp-21xn"],
-      "answer": "12xp-21xn"
-    },
-    {
-      "number": 31,
-      "question": "Simplify (x+1)(x-1)+2x^2",
-      "options": ["2x^2-1", "2x^2+1", "3x^2-1", "3x^2+1"],
-      "answer": "3x^2-1"
-    },
-    {
-      "number": 32,
-      "question": "If 45 is added to a certain number and the result is divided by 9, the quotient is 8. What is the number?",
-      "options": ["12", "19", "25", "27"],
-      "answer": "27"
-    },
-    {
-      "number": 33,
-      "question": "Factorise 32x^2 y-8yz^2",
-      "options": ["8y(2x-z)", "8y(2x+z)", "8y(2x-z)(2x+z)", "8y(2x+z)(2x+z)"],
-      "answer": "8y(2x-z)"
-    },
-    {
-      "number": 34,
-      "question": "Solve the equation 8/4 (x-2) = 1/10",
-      "options": ["10", "18", "20", "22"],
-      "answer": "22"
-    },
-    {
-      "number": 35,
-      "question": "Expand (n+5)(n-4)",
-      "options": ["n^2+n+20", "n^2+n-20", "n^2-9n-20", "n^2-n-20"],
-      "answer": "n^2-n-20"
-    },
-    {
-      "number": 36,
-      "question": "Solve the equation (5p-4)/3 = p+2",
-      "options": ["2", "3", "4", "5"],
-      "answer": "5"
-    },
-    {
-      "number": 37,
-      "question": "Solve 2/(y-3) = 4/(3y+5)",
-      "options": ["-22", "-11", "-2", "2"],
-      "answer": "-11"
-    },
-    {
-      "number": 38,
-      "question": "If 12 is the mean of the following set of numbers: 12,10, x, 8,10, find the value of x",
-      "options": ["12", "15", "20", "40"],
-      "answer": "20"
-    },
-    {
-      "number": 39,
-      "question": "Solve the equation 1/(a-5) = 1/5",
-      "options": ["5", "7", "10", "15"],
-      "answer": "10"
-    },
-    {
-      "number": 40,
-      "question": "How many students scored 58 or more? (given scores list)",
-      "options": ["5", "8", "13", "15"],
-      "answer": "13"
-    },
-    {
-      "number": 41,
-      "question": "What is the range? (given scores list)",
-      "options": ["19", "29", "39", "51"],
-      "answer": "19"
-    },
-    {
-      "number": 42,
-      "question": "If 60 is the pass mark, how many students failed? (given scores list)",
-      "options": ["5", "6", "7", "8"],
-      "answer": "8"
-    },
-    {
-      "number": 43,
-      "question": "Find the difference between the range and the mean of the given set of numbers: 2,4,6,8,9,10,11,14",
-      "options": ["2", "4", "8", "11"],
-      "answer": "4"
-    },
-    {
-      "number": 44,
-      "question": "If N200,000.00 is saved at simple interest of 5% per annum, calculate the total amount after 4 years.",
-      "options": ["N40,000.00", "N210,000.00", "N240,000.00", "N300,000.00"],
-      "answer": "N240,000.00"
-    },
-    {
-      "number": 45,
-      "question": "Express 42_seven in base ten",
-      "options": ["12", "18", "24", "30"],
-      "answer": "30"
-    },
-    {
-      "number": 46,
-      "question": "Which of the following fractions is a recurring decimal?",
-      "options": ["1/10", "1/5", "1/4", "1/3"],
-      "answer": "1/3"
-    },
-    {
-      "number": 47,
-      "question": "Subtract 11 from 111 in base two",
-      "options": ["100_two", "1001_two", "1010_two", "1100_two"],
-      "answer": "100_two"
-    },
-    {
-      "number": 48,
-      "question": "Multiply 110_two by 11_two",
-      "options": ["1101_two", "1110_two", "1111_two", "10010_two"],
-      "answer": "10010_two"
-    },
-    {
-      "number": 49,
-      "question": "Expand (2x+3)^2",
-      "options": ["4x^2+12x+9", "4x^2+6x+9", "x^2+6x+9", "4x^2+9"],
-      "answer": "4x^2+12x+9"
-    },
-    {
-      "number": 50,
-      "question": "Factorise: 1/2 x^2 y^2 - 1/2 xy^2",
-      "options": ["1/2 xy(x^2 - 1/2 y)", "1/2 xy^2 (x-1)", "1/2 xy(y-x)", "x^2 y^2 (1/2 - xy)"],
-      "answer": "1/2 xy^2 (x-1)"
+      "instruction": "Instructions: Choose from the options lettered A to E the question that is best answered by the statement containing the stressed word written in CAPITAL LETTERS.",
+      "questions": [
+        {
+          "number": 58,
+          "question": "Our junior team won the football competition LAST YEAR.",
+          "options": [
+            "When did our junior team win the football competition?",
+            "Did your senior team win the football competition last year?",
+            "Did our junior team win the athletics competition last year?",
+            "Who won the football competition last year?",
+            "Was it our junior team that lost last year?"
+          ],
+          "answer": "When did our junior team win the football competition?"
+        },
+        {
+          "number": 59,
+          "question": "SOME children are afraid of the dark.",
+          "options": [
+            "Are some adults afraid of the dark?",
+            "Are all children afraid of the dark?",
+            "Are some children afraid of the light?",
+            "Are some children in love with the dark?",
+            "Are the teachers afraid of the dark?"
+          ],
+          "answer": "Are all children afraid of the dark?"
+        },
+        {
+          "number": 60,
+          "question": "Her ELDER brother loves football.",
+          "options": [
+            "Does her elder brother hate football?",
+            "Does her elder brother love handball?",
+            "Does her younger brother love football?",
+            "Does her younger brother play football?",
+            "Does her cousin love football?"
+          ],
+          "answer": "Does her younger brother love football?"
+        }
+      ]
     }
-  
-]
+  ]
+
+
