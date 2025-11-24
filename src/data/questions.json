@@ -1,428 +1,554 @@
 [
     {
-      "instruction": "From the words lettered A to D, choose the word or group of words that is OPPOSITE IN MEANING to the underlined expression as it is used in the sentence.",
-      "questions": [
-        {
-          "number": 1,
-          "question": "The principal ordered the teachers to be <u>vigilant</u>, not _____, during examination periods.",
-          "options": ["watchful", "negligent", "observant", "alert", "active"],
-          "answer": "negligent"
-        },
-        {
-          "number": 2,
-          "question": "Her remarks were meant to <u>incite</u> anger, not to _____.",
-          "options": ["provoke", "awaken", "appease", "excite", "inspire"],
-          "answer": "appease"
-        },
-        {
-          "number": 3,
-          "question": "The lawyer’s evidence was <u>credible</u>, while the witness’s account seemed completely _____.",
-          "options": ["genuine", "believable", "authentic", "false", "valid"],
-          "answer": "false"
-        },
-        {
-          "number": 4,
-          "question": "The commander instructed his troops to <u>advance</u>, but the frightened soldiers began to _____.",
-          "options": ["withdraw", "retreat", "hide", "scatter", "regroup"],
-          "answer": "retreat"
-        },
-        {
-          "number": 5,
-          "question": "The hall remained <u>silent</u> even after the announcement that was expected to make people _____.",
-          "options": ["angry", "restless", "cheerful", "talkative", "excited"],
-          "answer": "excited"
-        },
-        {
-          "number": 6,
-          "question": "The professor’s lecture was <u>lucid</u>, unlike the last one which was completely _____.",
-          "options": ["complex", "dull", "obscure", "long", "vague"],
-          "answer": "obscure"
-        },
-        {
-          "number": 7,
-          "question": "The priest reminded the congregation that the way to peace is not through <u>hatred</u> but through _____.",
-          "options": ["anger", "faith", "love", "kindness", "mercy"],
-          "answer": "love"
-        },
-        {
-          "number": 8,
-          "question": "The community was once <u>prosperous</u>, but years of poor governance made it _____.",
-          "options": ["barren", "wealthy", "desolate", "impoverished", "quiet"],
-          "answer": "impoverished"
-        },
-        {
-          "number": 9,
-          "question": "The lecturer warned that plagiarism would lead to <u>punishment</u>, but original work would be _____.",
-          "options": ["rejected", "praised", "corrected", "ignored", "dismissed"],
-          "answer": "praised"
-        },
-        {
-          "number": 10,
-          "question": "The manager said that any act of <u>defiance</u> would not be tolerated, only total _____ would be accepted.",
-          "options": ["obedience", "silence", "loyalty", "discipline", "honesty"],
-          "answer": "obedience"
-        },
-        {
-          "number": 11,
-          "question": "The politician’s speech was <u>spontaneous</u>, unlike his previous ones which sounded carefully _____.",
-          "options": ["prepared", "genuine", "relaxed", "passionate", "natural"],
-          "answer": "prepared"
-        }
-      ]
+      "number": 1,
+      "question": "Human trafficking can best be defined as __________.",
+      "options": [
+         "the movement of people for tourism purposes",
+         "the illegal buying and selling of human beings for exploitation",
+         "people traveling for education",
+         "migration from rural to urban areas"
+      ],
+      "answer": "the illegal buying and selling of human beings for exploitation"
     },
     {
-      "instruction": "From the words lettered A to E, choose the word that best completes each of the following sentences.",
-      "questions": [
-        {
-          "number": 12,
-          "question": "The director insisted that every invoice must be fully ______ so that the auditors can verify the claim.",
-          "options": ["complied", "accounted", "rejected", "processed", "verified"],
-          "answer": "verified"
-        },
-        {
-          "number": 13,
-          "question": "The lecturer reminded students to submit their projects by Friday, failing which they would be ______ for non-compliance.",
-          "options": ["rewarded", "exempted", "excused", "sanctioned", "applauded"],
-          "answer": "sanctioned"
-        },
-        {
-          "number": 14,
-          "question": "In spite of the heavy storm, the rural road remained ______ and accessible to the villagers.",
-          "options": ["impassable", "blocked", "navigable", "flooded", "isolated"],
-          "answer": "navigable"
-        },
-        {
-          "number": 15,
-          "question": "The film’s narrative was so ______ that many viewers found it difficult to follow the sequence of events.",
-          "options": ["coherent", "lucid", "convoluted", "crystal-clear", "transparent"],
-          "answer": "convoluted"
-        },
-        {
-          "number": 16,
-          "question": "The scientist’s theory was initially ______ but rapidly gained acceptance in the academic community.",
-          "options": ["discredited", "validated", "dismissed", "accepted", "acknowledged"],
-          "answer": "dismissed"
-        },
-        {
-          "number": 17,
-          "question": "The government launched an initiative to ______ the gap between urban and rural education standards.",
-          "options": ["widen", "abolish", "diminish", "deepen", "strengthen"],
-          "answer": "diminish"
-        },
-        {
-          "number": 18,
-          "question": "His performance was so ______ that the manager had no hesitation in promoting him.",
-          "options": ["mediocre", "outstanding", "average", "ordinary", "negligible"],
-          "answer": "outstanding"
-        },
-        {
-          "number": 19,
-          "question": "The artist’s latest work is truly ______, combining tradition with a bold modern vision.",
-          "options": ["derivative", "trite", "innovative", "conventional", "predictable"],
-          "answer": "innovative"
-        },
-        {
-          "number": 20,
-          "question": "Despite the initial resistance, the new policy proved to be ______ and improved efficiency substantially.",
-          "options": ["ineffective", "counterproductive", "fruitful", "abortive", "inefficient"],
-          "answer": "fruitful"
-        },
-        {
-          "number": 21,
-          "question": "She preferred to work in a______ environment, away from the noise and constant interruptions of the city.",
-          "options": ["chaotic", "serene", "turbulent", "frenetic", "hectic"],
-          "answer": "serene"
-        },
-        {
-          "number": 22,
-          "question": "The board stressed that any form of ______ will not be tolerated and appropriate measures will be taken.",
-          "options": ["integrity", "dishonesty", "transparency", "honesty", "accountability"],
-          "answer": "dishonesty"
-        },
-        {
-          "number": 23,
-          "question": "The children were taught to show ______ for their elders, not to challenge every decision made for them.",
-          "options": ["deference", "contempt", "defiance", "resistance", "disregard"],
-          "answer": "deference"
-        },
-        {
-          "number": 24,
-          "question": "His health improved steadily once he adopted a ______ lifestyle, abstaining from previous excesses.",
-          "options": ["decadent", "indulgent", "hardy", "temperate", "extravagant"],
-          "answer": "temperate"
-        }
-      ]
+      "number": 2,
+      "question": "One major cause of human trafficking is __________.",
+      "options": [
+         "good employment opportunities",
+         "poverty and unemployment",
+         "government empowerment programmes",
+         "free education"
+      ],
+      "answer": "poverty and unemployment"
     },
     {
-      "instruction": "After each of the following sentences, a list of possible interpretations of the sentence is given. Choose the interpretation that you consider most appropriate for each sentence.",
-      "questions": [
-        {
-          "number": 25,
-          "question": "Even though the athlete was favoured to win, he came home with nothing but the consolation prize. This means that he",
-          "options": ["arrived too late to compete", "won only the lesser award", "refused to accept the medal", "dominated the competition", "refused to participate"],
-          "answer": "won only the lesser award"
-        },
-        {
-          "number": 26,
-          "question": "The manager told the team that their efforts were only the tip of the iceberg. This implies that their efforts were",
-          "options": ["completely wasted", "just a small part of the whole", "the final result of many months’ work", "unlawful and hidden", "greater than what they had done"],
-          "answer": "just a small part of the whole"
-        },
-        {
-          "number": 27,
-          "question": "After the scandal broke, the company was under the microscope. This means the company was",
-          "options": ["allowed to operate freely", "closely examined", "given a microscope for research", "unaware of the scrutiny", "praised publicly"],
-          "answer": "closely examined"
-        },
-        {
-          "number": 28,
-          "question": "When the teacher said “let’s call it a day,” she meant that the class would",
-          "options": ["start a new topic", "continue until late night", "stop for the day’s work", "revise previous lessons", "have extra homework"],
-          "answer": "stop for the day’s work"
-        },
-        {
-          "number": 29,
-          "question": "His boss warned him that he was skating on thin ice. This means he was",
-          "options": ["confidently doing his work", "breaking the rules intentionally", "in a risky position", "planning to skate at the weekend", "supervising a skating rink"],
-          "answer": "in a risky position"
-        },
-        {
-          "number": 30,
-          "question": "The author’s new novel shook the literary world to its foundations. This means it",
-          "options": ["had no impact at all", "only pleased casual readers", "greatly disturbed or changed the literature field", "was entirely ignored by critics", "was read only by children"],
-          "answer": "greatly disturbed or changed the literature field"
-        },
-        {
-          "number": 31,
-          "question": "When she said she would hit the sack, she meant she would",
-          "options": ["start boxing", "go to sleep", "pack her belongings", "stop working at the sack factory", "go on a diet"],
-          "answer": "go to sleep"
-        },
-        {
-          "number": 32,
-          "question": "The politician’s attempt to sweep the issue under the carpet meant he was trying to",
-          "options": ["clean up the mess", "make sure everyone knew about it", "hide the problem", "make the carpet colourful", "apologise publicly"],
-          "answer": "hide the problem"
-        },
-        {
-          "number": 33,
-          "question": "He realised that he had bitten off more than he could chew. This means that he",
-          "options": ["prepared well for the challenge", "accepted a task too difficult for him", "chewed his food very quickly", "ignored the assignment altogether", "promised more than he could deliver"],
-          "answer": "accepted a task too difficult for him"
-        }
-      ]
+      "number": 3,
+      "question": "Which of the following is a form of human trafficking?",
+      "options": [
+         "Child labour and prostitution",
+         "Attending school",
+         "Trading food items",
+         "Doing sports"
+      ],
+      "answer": "Child labour and prostitution"
     },
     {
-      "instruction": "From the words lettered A–E below each of the following sentences, choose the word or group of words that is nearest in meaning to the underlined word as it is used in the sentences.",
-      "questions": [
-        {
-          "number": 34,
-          "question": "The governor’s speech was filled with <u>platitudes</u> that failed to inspire the restless crowd.",
-          "options": ["praises", "clichés", "arguments", "confessions", "compliments"],
-          "answer": "clichés"
-        },
-        {
-          "number": 35,
-          "question": "The witness gave a <u>candid</u> account of the events leading to the accident.",
-          "options": ["deceitful", "honest", "calculated", "secretive", "rehearsed"],
-          "answer": "honest"
-        },
-        {
-          "number": 36,
-          "question": "Her tone was <u>caustic</u>, leaving no doubt that she was deeply offended by his remarks.",
-          "options": ["bitter", "mild", "humorous", "respectful", "careless"],
-          "answer": "bitter"
-        },
-        {
-          "number": 37,
-          "question": "The detective’s <u>astute</u> observation helped solve a case that had baffled others for months.",
-          "options": ["dull", "shrewd", "lazy", "indifferent", "reckless"],
-          "answer": "shrewd"
-        },
-        {
-          "number": 38,
-          "question": "Despite his wealth, he lived a <u>spartan</u> life, avoiding luxury and comfort.",
-          "options": ["austere", "indulgent", "lavish", "extravagant", "comfortable"],
-          "answer": "austere"
-        },
-        {
-          "number": 39,
-          "question": "The lecture was so <u>tedious</u> that half the students struggled to stay awake.",
-          "options": ["interesting", "boring", "confusing", "exciting", "stimulating"],
-          "answer": "boring"
-        },
-        {
-          "number": 40,
-          "question": "Her <u>equanimity</u> under pressure impressed even her harshest critics.",
-          "options": ["anxiety", "nervousness", "calmness", "pride", "restlessness"],
-          "answer": "calmness"
-        },
-        {
-          "number": 41,
-          "question": "The novel’s <u>enigmatic</u> ending left readers debating its true meaning.",
-          "options": ["puzzling", "clear", "joyful", "predictable", "satisfying"],
-          "answer": "puzzling"
-        },
-        {
-          "number": 42,
-          "question": "The community honoured the philanthropist for his <u>munificent</u> donations to education.",
-          "options": ["delayed", "reluctant", "generous", "modest", "meager"],
-          "answer": "generous"
-        },
-        {
-          "number": 43,
-          "question": "His <u>impecunious</u> background did not stop him from aspiring to greatness.",
-          "options": ["poor", "wealthy", "humble", "fortunate", "respected"],
-          "answer": "wealthy"
-        }
-      ]
+      "number": 4,
+      "question": "People are often trafficked mainly for __________.",
+      "options": [
+         "education and skill training",
+         "exploitation and forced labour",
+         "recreation and tourism",
+         "medical treatment"
+      ],
+      "answer": "exploitation and forced labour"
     },
     {
-      "instruction": "Instructions: From the words lettered A to E, choose the word that has the same vowel sound as the one represented by the letter(s) underlined.",
-      "questions": [
-        {
-          "number": 44,
-          "question": "w<u>o</u>men",
-          "options": ["red", "rid", "bead", "cool", "weed"],
-          "answer": "rid"
-        },
-        {
-          "number": 45,
-          "question": "s<u>ea</u>t",
-          "options": ["sit", "meat", "said", "bet", "beach"],
-          "answer": "sit"
-        },
-        {
-          "number": 46,
-          "question": "b<u>a</u>nk",
-          "options": ["sang", "cart", "dark", "hand", "sand"],
-          "answer": "sang"
-        }
-      ]
+      "number": 5,
+      "question": "Lack of awareness about human rights can lead to __________.",
+      "options": [
+         "reduction in trafficking",
+         "increase in human trafficking",
+         "peace in society",
+         "improved education"
+      ],
+      "answer": "increase in human trafficking"
     },
     {
-      "instruction": "Instructions: From the words lettered A to E, choose the word that has the same consonant sound as the one represented by the letter(s) underlined.",
-      "questions": [
-        {
-          "number": 47,
-          "question": "<u>ph</u>one",
-          "options": ["fan", "graph", "tough", "cough", "vine"],
-          "answer": "fan"
-        },
-        {
-          "number": 48,
-          "question": "<u>th</u>ink",
-          "options": ["though", "path", "that", "their", "then"],
-          "answer": "path"
-        },
-        {
-          "number": 49,
-          "question": "si<u>gn</u>",
-          "options": ["reign", "ring", "gnash", "gnat", "night"],
-          "answer": "ring"
-        }
-      ]
+      "number": 6,
+      "question": "Human trafficking can be prevented through __________.",
+      "options": [
+         "public awareness and education",
+         "encouraging street begging",
+         "allowing children to drop out of school",
+         "supporting traffickers"
+      ],
+      "answer": "public awareness and education"
     },
     {
-      "instruction": "Instructions: Choose from the options lettered A to E the one that rhymes with the given word.",
-      "questions": [
-        {
-          "number": 50,
-          "question": "mate",
-          "options": ["faith", "great", "height", "heart", "late"],
-          "answer": "late"
-        },
-        {
-          "number": 51,
-          "question": "suite",
-          "options": ["suit", "sweet", "suitor", "soothe", "sweat"],
-          "answer": "sweet"
-        },
-        {
-          "number": 52,
-          "question": "bare",
-          "options": ["care", "hear", "fear", "pear", "cheer"],
-          "answer": "cheer"
-        }
-      ]
+      "number": 7,
+      "question": "One way to prevent human trafficking is by __________.",
+      "options": [
+         "reporting suspicious movements to authorities",
+         "keeping quiet about traffickers",
+         "ignoring victims of trafficking",
+         "hiding criminals"
+      ],
+      "answer": "reporting suspicious movements to authorities"
     },
     {
-      "instruction": "Instructions: Choose from the options lettered A to E the one that shows the correct stress pattern for the word given, or the word that differs in stress pattern.",
-      "questions": [
-        {
-          "number": 53,
-          "question": "Fluency",
-          "options": ["flu-EN-cy", "flu-en-CY", "flu-en-cy", "FLU-en-cy", "flu-en-Cy"],
-          "answer": "FLU-en-cy"
-        },
-        {
-          "number": 54,
-          "question": "Category",
-          "options": ["CA-te-go-ry", "Ca-TE-go-ry", "Ca-te-GO-ry", "Ca-te-go-RY", "Ca-te-go-ry"],
-          "answer": "CA-te-go-ry"
-        }
-      ]
+      "number": 8,
+      "question": "Which of the following organizations helps to fight human trafficking in Nigeria?",
+      "options": [
+         "NAFDAC",
+         "NAPTIP",
+         "NECO",
+         "WAEC"
+      ],
+      "answer": "NAPTIP"
     },
     {
-      "instruction": "Instructions: In the following options, all the words except one have the same stress pattern. Identify the one with a different stress pattern.",
-      "questions": [
-        {
-          "number": 55,
-          "options": ["beauty", "market", "forest", "garage", "teacher"],
-          "answer": "garage"
-        },
-        {
-          "number": 56,
-          "options": ["market", "product", "report", "mountain", "farmer"],
-          "answer": "report"
-        },
-        {
-          "number": 57,
-          "options": ["academic", "economic", "photographic", "arithmetic", "domestic"],
-          "answer": "arithmetic"
-        }
-      ]
+      "number": 9,
+      "question": "Government can reduce human trafficking by providing __________.",
+      "options": [
+         "unemployment",
+         "job opportunities and education",
+         "political conflict",
+         "poor housing"
+      ],
+      "answer": "job opportunities and education"
     },
     {
-      "instruction": "Instructions: Choose from the options lettered A to E the question that is best answered by the statement containing the stressed word written in CAPITAL LETTERS.",
-      "questions": [
-        {
-          "number": 58,
-          "question": "Our junior team won the football competition LAST YEAR.",
-          "options": [
-            "When did our junior team win the football competition?",
-            "Did your senior team win the football competition last year?",
-            "Did our junior team win the athletics competition last year?",
-            "Who won the football competition last year?",
-            "Was it our junior team that lost last year?"
-          ],
-          "answer": "When did our junior team win the football competition?"
-        },
-        {
-          "number": 59,
-          "question": "SOME children are afraid of the dark.",
-          "options": [
-            "Are some adults afraid of the dark?",
-            "Are all children afraid of the dark?",
-            "Are some children afraid of the light?",
-            "Are some children in love with the dark?",
-            "Are the teachers afraid of the dark?"
-          ],
-          "answer": "Are all children afraid of the dark?"
-        },
-        {
-          "number": 60,
-          "question": "Her ELDER brother loves football.",
-          "options": [
-            "Does her elder brother hate football?",
-            "Does her elder brother love handball?",
-            "Does her younger brother love football?",
-            "Does her younger brother play football?",
-            "Does her cousin love football?"
-          ],
-          "answer": "Does her younger brother love football?"
-        }
-      ]
+      "number": 10,
+      "question": "Parents can help prevent trafficking by __________.",
+      "options": [
+         "forcing children into early marriage",
+         "ensuring their children are educated and well cared for",
+         "sending their children to strangers",
+         "neglecting their children"
+      ],
+      "answer": "ensuring their children are educated and well cared for"
+    },
+    {
+      "number": 11,
+      "question": "Which of the following is a harmful traditional practice?",
+      "options": [
+         "Naming ceremonies",
+         "Female genital mutilation",
+         "Cultural festivals",
+         "Marriage celebrations"
+      ],
+      "answer": "Female genital mutilation"
+    },
+    {
+      "number": 12,
+      "question": "Harmful traditional practices are those that __________.",
+      "options": [
+         "promote human rights",
+         "endanger the health and dignity of people",
+         "support peace and unity",
+         "encourage gender equality"
+      ],
+      "answer": "endanger the health and dignity of people"
+    },
+    {
+      "number": 13,
+      "question": "An example of a harmful traditional practice affecting women is __________.",
+      "options": [
+         "Education of girls",
+         "Widowhood rites and female circumcision",
+         "Equal inheritance",
+         "Skill acquisition"
+      ],
+      "answer": "Widowhood rites and female circumcision"
+    },
+    {
+      "number": 14,
+      "question": "Early or forced marriage can lead to __________.",
+      "options": [
+         "girl-child education",
+         "health problems and broken homes",
+         "higher education",
+         "job opportunities"
+      ],
+      "answer": "health problems and broken homes"
+    },
+    {
+      "number": 15,
+      "question": "One way to prevent harmful traditional practices is to __________.",
+      "options": [
+         "promote cultural awareness and education",
+         "encourage ignorance",
+         "support discrimination",
+         "hide such practices"
+      ],
+      "answer": "promote cultural awareness and education"
+    },
+    {
+      "number": 16,
+      "question": "Peaceful living in society means __________.",
+      "options": [
+         "living in hatred and conflict",
+         "living in harmony and mutual understanding",
+         "engaging in fighting and war",
+         "avoiding one another"
+      ],
+      "answer": "living in harmony and mutual understanding"
+    },
+    {
+      "number": 17,
+      "question": "One importance of peace in society is that it __________.",
+      "options": [
+         "brings unity and progress",
+         "causes division",
+         "promotes insecurity",
+         "increases poverty"
+      ],
+      "answer": "brings unity and progress"
+    },
+    {
+      "number": 18,
+      "question": "Which of the following promotes peaceful living?",
+      "options": [
+         "Tolerance and respect for others",
+         "Violence and revenge",
+         "Tribal discrimination",
+         "Gossip and hatred"
+      ],
+      "answer": "Tolerance and respect for others"
+    },
+    {
+      "number": 19,
+      "question": "The absence of peace in society usually leads to __________.",
+      "options": [
+         "development",
+         "conflict and instability",
+         "good governance",
+         "unity"
+      ],
+      "answer": "conflict and instability"
+    },
+    {
+      "number": 20,
+      "question": "To promote peace in Nigeria, citizens should __________.",
+      "options": [
+         "obey laws and respect others’ rights",
+         "disobey rules",
+         "promote tribal hatred",
+         "engage in violent protests"
+      ],
+      "answer": "obey laws and respect others’ rights"
+    },
+    {
+      "number": 21,
+      "question": "Social conflict can be defined as __________.",
+      "options": [
+         "cooperation between groups",
+         "a disagreement or clash between individuals or groups",
+         "peace among communities",
+         "understanding between nations"
+      ],
+      "answer": "a disagreement or clash between individuals or groups"
+    },
+    {
+      "number": 22,
+      "question": "Which of the following is a type of conflict?",
+      "options": [
+         "Personal, ethnic, and religious conflict",
+         "Agricultural and industrial conflict",
+         "Scientific conflict",
+         "Musical conflict"
+      ],
+      "answer": "Personal, ethnic, and religious conflict"
+    },
+    {
+      "number": 23,
+      "question": "An example of a major conflict in Nigeria is __________.",
+      "options": [
+         "The Nigerian Civil War",
+         "The Olympic Games",
+         "The FESTAC Festival",
+         "National Census"
+      ],
+      "answer": "The Nigerian Civil War"
+    },
+    {
+      "number": 24,
+      "question": "One consequence of conflict in Nigeria is __________.",
+      "options": [
+         "unity and peace",
+         "loss of lives and destruction of property",
+         "development and progress",
+         "job creation"
+      ],
+      "answer": "loss of lives and destruction of property"
+    },
+    {
+      "number": 25,
+      "question": "One major solution to conflict in Nigeria is __________.",
+      "options": [
+         "dialogue and peaceful negotiation",
+         "promoting violence and revenge",
+         "ignoring community problems",
+         "encouraging hate speech"
+      ],
+      "answer": "dialogue and peaceful negotiation"
+    },
+    {
+      "number": 26,
+      "question": "The National Assembly in Nigeria consists of __chambers.",
+      "options": [
+         "2",
+         "3",
+         "4",
+         "5"
+      ],
+      "answer": "2"
+    },
+    {
+      "number": 27,
+      "question": "The yellow colour on the traffic light stands for",
+      "options": [
+         "Go",
+         "ready",
+         "Speed",
+         "Stop"
+      ],
+      "answer": "ready"
+    },
+    {
+      "number": 28,
+      "question": "National integration is promoted by establishing the following except",
+      "options": [
+         "Federal Unity Schools",
+         "National Orientation Agency",
+         "National Sports Festival",
+         "Nigeria Correctional Service"
+      ],
+      "answer": "Nigeria Correctional Service"
+    },
+    {
+      "number": 29,
+      "question": "Road accidents can be prevented by",
+      "options": [
+         "Adhering to speed limit",
+         "answering calls while driving",
+         "breaking traffic regulations",
+         "ignoring road signs"
+      ],
+      "answer": "Adhering to speed limit"
+    },
+    {
+      "number": 30,
+      "question": "ICPC stands for",
+      "options": [
+         "Independent Corrupt Practices and Other Related Offences Commission.",
+         "Independent Corruption Practices and Other Related Offences Commission",
+         "Independent Court Practices and Other Related Offences Commission",
+         "Independent Crime Practices and Other Related Offences Commission"
+      ],
+      "answer": "Independent Corrupt Practices and Other Related Offences Commission."
+    },
+    {
+      "number": 31,
+      "question": "A traffic light has _____colours.",
+      "options": [
+         "2",
+         "3",
+         "4",
+         "5"
+      ],
+      "answer": "3"
+    },
+    {
+      "number": 32,
+      "question": "The Economic and Financial Crimes Commission was established during the regime of",
+      "options": [
+         "Ernest Shonekan",
+         "Goodluck Jonathan",
+         "Muhammadu Buhari",
+         "Olusegun Obasanjo"
+      ],
+      "answer": "Olusegun Obasanjo"
+    },
+    {
+      "number": 33,
+      "question": "Which of the following crimes is commonly influenced by drug abuse?",
+      "options": [
+         "Arson",
+         "Cyber fraud",
+         "Smuggling",
+         "Traffic violation"
+      ],
+      "answer": "Traffic violation"
+    },
+    {
+      "number": 34,
+      "question": "The statue of a blind-folded woman with a sword on right hand and a scale on left represents",
+      "options": [
+         "investigation.",
+         "justice.",
+         "legislature.",
+         "prisons."
+      ],
+      "answer": "justice."
+    },
+    {
+      "number": 35,
+      "question": "The court is the highest in Nigeria.",
+      "options": [
+         "appeal",
+         "customary",
+         "high",
+         "supreme"
+      ],
+      "answer": "supreme"
+    },
+    {
+      "number": 36,
+      "question": "The executive arm at state level is headed by the",
+      "options": [
+         "chairman",
+         "commissioner",
+         "governor",
+         "president"
+      ],
+      "answer": "governor"
+    },
+    {
+      "number": 37,
+      "question": "The official symbol of the executive is",
+      "options": [
+         "gavel",
+         "mace",
+         "scale",
+         "seal"
+      ],
+      "answer": "seal"
+    },
+    {
+      "number": 38,
+      "question": "The supremacy of the Nigeria constitution means, it is",
+      "options": [
+         "conditional",
+         "final",
+         "flexible",
+         "restrictive"
+      ],
+      "answer": "final"
+    },
+    {
+      "number": 39,
+      "question": "Men of integrity are needed in the society to",
+      "options": [
+         "act as models for younger generations",
+         "build orphanage homes",
+         "defend the country's territorial integrity",
+         "protect lives and property"
+      ],
+      "answer": "act as models for younger generations"
+    },
+    {
+      "number": 40,
+      "question": "Rewarding a well done job encourages",
+      "options": [
+         "freedom",
+         "merrymaking",
+         "power",
+         "productivity"
+      ],
+      "answer": "productivity"
+    },
+    {
+      "number": 41,
+      "question": "Sleeping on duty is a __attitude to work.",
+      "options": [
+         "casual",
+         "constructive",
+         "desirable",
+         "slothful"
+      ],
+      "answer": "slothful"
+    },
+    {
+      "number": 42,
+      "question": "A factor responsible for promoting good values in the society is",
+      "options": [
+         "cooperation",
+         "corruption",
+         "favouritism",
+         "illiteracy"
+        
+      ],
+      "answer": "cooperation"
+    },
+    {
+      "number": 43,
+      "question": "Which of the following is a negative value?",
+      "options": [
+         "Commitment",
+         "Fairness",
+         "Inconsistency",
+         "Integrity"
+      ],
+      "answer": "Inconsistency"
+    },
+    {
+      "number": 44,
+      "question": "The quality of having high moral principle is",
+      "options": [
+         "commitment",
+         "cooperation",
+         "discipline",
+         "integrity"
+      ],
+      "answer": "integrity"
+    },
+    {
+      "number": 45,
+      "question": "Exhibiting confident behaviour illustrates",
+      "options": [
+         "consistency",
+         "courage",
+         "fairness",
+         "honesty"
+      ],
+      "answer": "courage"
+    },
+    {
+      "number": 46,
+      "question": "Underage voting is an act of electoral",
+      "options": [
+         "blackmail",
+         "compromise",
+         "malpractice",
+         "politicking"
+      ],
+      "answer": "malpractice"
+    },
+    {
+      "number": 47,
+      "question": "Self-reliance is synonymous with",
+      "options": [
+         "dependence",
+         "disability",
+         "independence",
+         "liability"
+      ],
+      "answer": "independence"
+    },
+    {
+      "number": 48,
+      "question": "Misunderstanding within a group can lead to",
+      "options": [
+         "agreement",
+         "competition",
+         "confusion",
+         "debate"
+      ],
+      "answer": "confusion"
+    },
+    {
+      "number": 49,
+      "question": "Election is the \"wheel that drives",
+      "options": [
+         "campaign",
+         "democracy",
+         "justice",
+         "protest"
+      ],
+      "answer": "democracy"
+    },
+    {
+      "number": 50,
+      "question": "A free and fair election is achieved through",
+      "options": [
+         "campaign",
+         "enlightenment",
+         "literacy",
+         "lobbying"
+      ],
+      "answer": "enlightenment"
     }
   ]
 
