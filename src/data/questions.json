@@ -1,63 +1,553 @@
-[
-    {"number":1,"question":"Which of the units of the following physical quantities is not derived unit?","options":["Area","Thrust","Pressure","Mass"],"answer":"Mass"},
-    {"number":2,"question":"Which of the following is a fundamental unit?","options":["Kgm−3","m3","Nm−2","Kg"],"answer":"Kg"},
-    {"number":3,"question":"Which of the following quantities has the same unit as energy?","options":["Power","Work","Force","Momentum"],"answer":"Work"},
-    {"number":4,"question":"The diagram below represents the Vernier caliper. M is the main scale and V the Vernier scale. What reading is indicated?","options":["4.37cm","4.30cm","3.39cm","4.38cm"],"answer":"4.37cm"},
-    {"number":5,"question":"Which of the following is a derived unit?","options":["Ampere","Kilogramme","Second","Ohm"],"answer":"Ohm"},
-    {"number":6,"question":"What type of motion does the skin of a talking drum perform when it is struck with a drum stick?","options":["Rotational","Translational","Random","Vibratory"],"answer":"Vibratory"},
-    {"number":7,"question":"The motion of the prongs of sounding tuning fork is","options":["rotational","vibratory","vibratory and rotational","random"],"answer":"vibratory"},
-    {"number":8,"question":"A body moves with a constant speed but has an acceleration. This is possible if it","options":["moves in a straight line","moves in a circle","is oscillating","is in equilibrium"],"answer":"moves in a circle"},
-    {"number":9,"question":"Which of the following is a derived unit?","options":["Tension","Impulse","Upthrust","Distance"],"answer":"Distance"},
-    {"number":10,"question":"The international agreed system of unit (S.I.) for physical measurement are","options":["lb, ft, sec","g, m, sec","kg, m, sec","cm, g, sec"],"answer":"kg, m, sec"},
-    {"number":11,"question":"Which of the following correctly gives the relationship between linear speed v & angular velocity w of a body moving uniformly","options":["v = w r","v = w^2 r","v = w r^2","v = w / r"],"answer":"v = w r"},
-    {"number":12,"question":"Friction depends on the area of surface in contact","options":["true","false","true & false","none of the above"],"answer":"false"},
-    {"number":13,"question":"A metal block of mass 8kg lies on a rough horizontal platform. If the horizontal resistive force is 10N, find the coefficient of static friction (g=10m/s2)","options":["0.25","0.125","0.8","0.124"],"answer":"0.125"},
-    {"number":14,"question":"Which of the units of the following physical quantities are derived? I. Area; II. Thrust; III. Pressure; IV. Mass","options":["I, II, III and IV","I, II and III only","I, II and IV only","I and IV only"],"answer":"I, II and III only"},
-    {"number":15,"question":"Which of the following instrument is suitable for taking the most accurate measurement of the internal diameter of a test-tube?","options":["Metre rule","A pair of calipers","A micrometer screw gauge","A tape rule"],"answer":"A micrometer screw gauge"},
-    {"number":16,"question":"Which of the following statements about mass and weight of a body is not correct?","options":["mass is a scalar quantity","weight is a function of the gravitational pull on it","mass on earth and on the moon is the same","weight at the equator and at the poles is the same"],"answer":"weight at the equator and at the poles is the same"},
-    {"number":17,"question":"The weight of a body is measured with","options":["spring balance","beam balance","chemical balance","lever balance"],"answer":"spring balance"},
-    {"number":18,"question":"Which instrument is best for measuring small quantity of liquid?","options":["Burette","Pipette","Cylinder","Beaker"],"answer":"Pipette"},
-    {"number":19,"question":"What is the dimension of force?","options":["MLT^-2","ML^2 T","ML^2 T^-2","MLT^-3"],"answer":"MLT^-2"},
-    {"number":20,"question":"The motion of a cylindrical object rolling down an inclined plane is","options":["translational only","rotational and translational","circular and translational","rotational only"],"answer":"rotational and translational"},
-    {"number":21,"question":"Which of the following instruments is the best for measuring the diameter of the constantan wire?","options":["Calipers","Metre rule","Micrometer screw gauge","Watt meter"],"answer":"Micrometer screw gauge"},
-    {"number":22,"question":"Hydrometer is an instrument used for measuring","options":["relative humidity","dew point","relative density","attitude"],"answer":"relative density"},
-    {"number":23,"question":"Which of the following types of motion does a body undergo when moving in a haphazard manner?","options":["Random motion","Translatory motion","Rotational motion","Vibratory motion"],"answer":"Random motion"},
-    {"number":24,"question":"A body moves along a circular path with uniform angular speed of 0.6 rads−1 and at a constant speed of 3.0 ms−1. Calculate the acceleration of the body towards the centre of the circle.","options":["25.0 ms−2","5.4 ms−2","5.0 ms−2","1.8 ms−2"],"answer":"1.8 ms−2"},
-    {"number":25,"question":"A body accelerates uniformly from rest at 2 ms−2. Calculate its velocity after travelling 9 m.","options":["36 ms−1","18 ms−1","6 ms−1","4.5 ms−1"],"answer":"6 ms−1"},
-    {"number":26,"question":"A moving object is said to have uniform acceleration if its","options":["displacement decreases at a constant rate","speed is directly proportional to time","velocity increases by equal amount in equal time intervals","velocity varies inversely with time"],"answer":"velocity increases by equal amount in equal time intervals"},
-    {"number":27,"question":"The following are examples of force field except","options":["electric force","magnetic force","frictional force","gravitational force"],"answer":"frictional force"},
-    {"number":28,"question":"Electric cell converts to electrical energy","options":["nuclear","chemical","mechanical","heat"],"answer":"chemical"},
-    {"number":29,"question":"A body moving at a constant speed accelerates when it is in","options":["rectilinear motion","translational motion","circular motion","vibrational motion"],"answer":"circular motion"},
-    {"number":30,"question":"The study of motion without involving the force which causes the motion is called","options":["kinematics","inertia","electromagnetic","dynamics"],"answer":"kinematics"},
-    {"number":31,"question":"The magnitude of the force required to make an object of mass M move with speed V in a circular path of radius R is given by the expression","options":["m r / v","(m r / v)^2","(mv)^2 / r","mv^2 / r"],"answer":"(mv)^2 / r"},
-    {"number":32,"question":"The following are types of motion except","options":["random motion","rotational motion","nuclear motion","oscillatory motion"],"answer":"nuclear motion"},
-    {"number":33,"question":"The motion of pollen particles in the air is","options":["random","translational","rotational","vibratory"],"answer":"random"},
-    {"number":34,"question":"A body moving in a circle at constant speed has i. a velocity tangential to the circle ii. a constant kinetic energy iii. an acceleration directed towards the circumference of the circle. Which of the statement above are correct","options":["I & ii only","ii & iii only","I & iii only","i, ii & iii"],"answer":"I & ii only"},
-    {"number":35,"question":"A loaded test tube which floats upright in water is carefully and slightly depressed and then released. which of the following best describes the subsequent motion of the test tube?","options":["circular","rotational","random","oscillatory"],"answer":"oscillatory"},
-    {"number":36,"question":"Which of the statement is correct","options":["static friction is less than dynamic friction","static friction equals dynamic friction","static friction is greater than dynamic friction","none of the above"],"answer":"static friction is greater than dynamic friction"},
-    {"number":37,"question":"A metal block of mass 0.5kg lies on a rough horizontal plane, what is the normal reaction (g=10m/s2)","options":["50N","0.05N","500N","5N"],"answer":"5N"},
-    {"number":38,"question":"If the angle between the incline length and the horizontal platform of an incline plane is 30 degrees. calculate the coefficient of friction","options":["0.542","0.577","0.467","0.866"],"answer":"0.577"},
-    {"number":39,"question":"A body which is uniformly retarded comes to rest in 10s after travelling a distance of 20m. Calculate its initial velocity","options":["0.5 ms−1","2.0 ms−1","4.0 ms−1","20.0 ms−1"],"answer":"4.0 ms−1"},
-    {"number":40,"question":"A boy ran a distance of 200m in 24s. his average speed was 8.3 ms−1. Which of the following is correct about the units in which the statements above are expressed?","options":["All the units are fundamental","All the units are derived","All units except one are SI units","Two of the units are fundamental and one is derived"],"answer":"Two of the units are fundamental and one is derived"},
-    {"number":41,"question":"The slope of a displacement-time graph is equal to","options":["acceleration","uniformly velocity","uniform speed","instantaneous speed"],"answer":"uniformly velocity"},
-    {"number":42,"question":"A moving object is said to have uniform acceleration if its","options":["displacement decreases at a constant rate","speed is directly proportional to time","velocity increases by equal amount in equal time intervals","velocity varies inversely with time"],"answer":"velocity increases by equal amount in equal time intervals"},
-    {"number":43,"question":"The following are examples of renewable energy except","options":["biomass","solar","wind","nuclear"],"answer":"nuclear"},
-    {"number":44,"question":"A boy of mass 50kg runs up a set of steps of total height 3.0m. Find the work done against gravity","options":["1200J","1500J","1000J","1300J"],"answer":"1500J"},
-    {"number":45,"question":"The S.I. unit of power is","options":["joules","kilogram","watt","pascal"],"answer":"watt"},
-    {"number":46,"question":"A bob of a simple pendulum has a mass of 0.02kg. Determine the weight of the bob","options":["0.2w","0.52w","0.25w","2N"],"answer":"0.2w"},
-    {"number":47,"question":"An object of mass 0.5kg has K.E of 25J. calculate the speed of the object","options":["50 ms−1","25 ms−1","2. m s−1","10 ml−1"],"answer":"10 ml−1"},
-    {"number":48,"question":"An object of mass 0.5kg has a velocity of 4ms−1 Calculate the K.E","options":["4.0J","40J","0.4J","400J"],"answer":"4.0J"},
-    {"number":49,"question":"Which of the following fundamental quantities is not correctly paired with its unit of measurement?","options":["Electric current - Ampere","Amount of substance - kilogram","Temperature - Kelvin","length - meter"],"answer":"Amount of substance - kilogram"},
-    {"number":50,"question":"The force with which an object is attracted to the earth is called","options":["Acceleration","Mass","Gravity","weight"],"answer":"Gravity"}
+ [
+    {
+      "number": 1,
+      "question": "What is Tinkercad mainly used for?",
+      "options": [
+        "Drawing and painting",
+        "Circuit design and 3D modeling",
+        "Music composition",
+        "Typing practice"
+      ],
+      "answer": "Circuit design and 3D modeling"
+    },
+    {
+      "number": 2,
+      "question": "Tinkercad Circuits allows users to simulate...",
+      "options": [
+        "Real-life electronic projects",
+        "Video games",
+        "Cooking recipes",
+        "3D animation"
+      ],
+      "answer": "Real-life electronic projects"
+    },
+    {
+      "number": 3,
+      "question": "Which company created Tinkercad?",
+      "options": [
+        "Apple",
+        "Autodesk",
+        "Microsoft",
+        "Meta"
+      ],
+      "answer": "Autodesk"
+    },
+    {
+      "number": 4,
+      "question": "To access Tinkercad, you must first...",
+      "options": [
+        "Install software",
+        "Visit the Tinkercad website",
+        "Buy a CD",
+        "Connect a robot"
+      ],
+      "answer": "Visit the Tinkercad website"
+    },
+    {
+      "number": 5,
+      "question": "The small computer board used in Tinkercad circuits is called...",
+      "options": [
+        "Raspberry Pi",
+        "Arduino Uno",
+        "Micro:bit",
+        "ESP32"
+      ],
+      "answer": "Arduino Uno"
+    },
+    {
+      "number": 6,
+      "question": "What is the main purpose of a resistor in a circuit?",
+      "options": [
+        "To increase voltage",
+        "To limit current flow",
+        "To generate sound",
+        "To store energy"
+      ],
+      "answer": "To limit current flow"
+    },
+    {
+      "number": 7,
+      "question": "The unit of resistance is measured in...",
+      "options": [
+        "Volts",
+        "Amperes",
+        "Ohms",
+        "Watts"
+      ],
+      "answer": "Ohms"
+    },
+    {
+      "number": 8,
+      "question": "Which component in Tinkercad lights up when powered?",
+      "options": [
+        "Buzzer",
+        "Motor",
+        "LED",
+        "Capacitor"
+      ],
+      "answer": "LED"
+    },
+    {
+      "number": 9,
+      "question": "What does LED stand for?",
+      "options": [
+        "Light Electric Device",
+        "Light Emitting Diode",
+        "Low Energy Display",
+        "Light Energy Detector"
+      ],
+      "answer": "Light Emitting Diode"
+    },
+    {
+      "number": 10,
+      "question": "The long leg of an LED is called the...",
+      "options": [
+        "Cathode",
+        "Anode",
+        "Resistor",
+        "Terminal"
+      ],
+      "answer": "Anode"
+    },
+    {
+      "number": 11,
+      "question": "A breadboard is used for...",
+      "options": [
+        "Baking bread",
+        "Testing circuits without soldering",
+        "Measuring resistance",
+        "Drawing circuit diagrams"
+      ],
+      "answer": "Testing circuits without soldering"
+    },
+    {
+      "number": 12,
+      "question": "What connects components together on a breadboard?",
+      "options": [
+        "Metal strips",
+        "Plastic wires",
+        "Magnets",
+        "Wooden pins"
+      ],
+      "answer": "Metal strips"
+    },
+    {
+      "number": 13,
+      "question": "What does the color code on resistors represent?",
+      "options": [
+        "Brand name",
+        "Resistance value",
+        "Voltage rating",
+        "Country of origin"
+      ],
+      "answer": "Resistance value"
+    },
+    {
+      "number": 14,
+      "question": "Which pin on Arduino is used for ground connection?",
+      "options": [
+        "VIN",
+        "5V",
+        "GND",
+        "A0"
+      ],
+      "answer": "GND"
+    },
+    {
+      "number": 15,
+      "question": "The 5V pin on Arduino provides...",
+      "options": [
+        "Input voltage",
+        "Output voltage",
+        "Ground signal",
+        "PWM signal"
+      ],
+      "answer": "Output voltage"
+    },
+    {
+      "number": 16,
+      "question": "What does the “+” rail on a breadboard represent?",
+      "options": [
+        "Ground",
+        "Positive voltage",
+        "Data pin",
+        "Control line"
+      ],
+      "answer": "Positive voltage"
+    },
+    {
+      "number": 17,
+      "question": "A buzzer in Tinkercad produces...",
+      "options": [
+        "Light",
+        "Sound",
+        "Heat",
+        "Movement"
+      ],
+      "answer": "Sound"
+    },
+    {
+      "number": 18,
+      "question": "What does the Arduino IDE do?",
+      "options": [
+        "Runs mobile apps",
+        "Writes and uploads code to Arduino",
+        "Charges the battery",
+        "Measures current"
+      ],
+      "answer": "Writes and uploads code to Arduino"
+    },
+    {
+      "number": 19,
+      "question": "In Arduino code, every line ends with...",
+      "options": [
+        "Comma",
+        "Full stop",
+        "Semicolon",
+        "Colon"
+      ],
+      "answer": "Semicolon"
+    },
+    {
+      "number": 20,
+      "question": "What function runs continuously in Arduino code?",
+      "options": [
+        "setup()",
+        "loop()",
+        "run()",
+        "start()"
+      ],
+      "answer": "loop()"
+    },
+    {
+      "number": 21,
+      "question": "The function that runs once when the Arduino starts is...",
+      "options": [
+        "begin()",
+        "setup()",
+        "repeat()",
+        "restart()"
+      ],
+      "answer": "setup()"
+    },
+    {
+      "number": 22,
+      "question": "What is the function of a sensor?",
+      "options": [
+        "To store energy",
+        "To detect changes in the environment",
+        "To create movement",
+        "To light LEDs"
+      ],
+      "answer": "To detect changes in the environment"
+    },
+    {
+      "number": 23,
+      "question": "The LDR detects...",
+      "options": [
+        "Sound",
+        "Light",
+        "Temperature",
+        "Touch"
+      ],
+      "answer": "Light"
+    },
+    {
+      "number": 24,
+      "question": "A temperature sensor measures...",
+      "options": [
+        "Pressure",
+        "Heat",
+        "Vibration",
+        "Speed"
+      ],
+      "answer": "Heat"
+    },
+    {
+      "number": 25,
+      "question": "Which component stores electrical charge?",
+      "options": [
+        "Capacitor",
+        "Resistor",
+        "Switch",
+        "Diode"
+      ],
+      "answer": "Capacitor"
+    },
+    {
+      "number": 26,
+      "question": "A switch is used to...",
+      "options": [
+        "Store data",
+        "Turn a circuit on or off",
+        "Produce sound",
+        "Measure current"
+      ],
+      "answer": "Turn a circuit on or off"
+    },
+    {
+      "number": 27,
+      "question": "The power supply for a circuit can come from...",
+      "options": [
+        "Battery",
+        "Water",
+        "Magnet",
+        "Candle"
+      ],
+      "answer": "Battery"
+    },
+    {
+      "number": 28,
+      "question": "What is the role of jumper wires on a breadboard?",
+      "options": [
+        "Decoration",
+        "Connection between components",
+        "Cooling system",
+        "Power storage"
+      ],
+      "answer": "Connection between components"
+    },
+    {
+      "number": 29,
+      "question": "Which component converts electrical energy into motion?",
+      "options": [
+        "LED",
+        "Buzzer",
+        "Motor",
+        "Sensor"
+      ],
+      "answer": "Motor"
+    },
+    {
+      "number": 30,
+      "question": "The Arduino board is powered by...",
+      "options": [
+        "Air",
+        "Electricity",
+        "Light",
+        "Sound"
+      ],
+      "answer": "Electricity"
+    },
+    {
+      "number": 31,
+      "question": "Which pin type controls LED brightness in Arduino?",
+      "options": [
+        "Digital input",
+        "Analog output (PWM)",
+        "Ground pin",
+        "Serial pin"
+      ],
+      "answer": "Analog output (PWM)"
+    },
+    {
+      "number": 32,
+      "question": "Which code command turns an LED ON in Arduino?",
+      "options": [
+        "digitalWrite(pin, HIGH);",
+        "turnLED(on);",
+        "pinStart(pin);",
+        "output(on);"
+      ],
+      "answer": "digitalWrite(pin, HIGH);"
+    },
+    {
+      "number": 33,
+      "question": "What is the first step when creating a new Tinkercad circuit?",
+      "options": [
+        "Add components",
+        "Save file",
+        "Rename it",
+        "Login to your account"
+      ],
+      "answer": "Add components"
+    },
+    {
+      "number": 34,
+      "question": "The Arduino Uno has how many digital pins?",
+      "options": [
+        "8",
+        "10",
+        "14",
+        "20"
+      ],
+      "answer": "14"
+    },
+    {
+      "number": 35,
+      "question": "Analog pins on Arduino are labeled as...",
+      "options": [
+        "A0–A5",
+        "D1–D6",
+        "P1–P6",
+        "1–6"
+      ],
+      "answer": "A0–A5"
+    },
+    {
+      "number": 36,
+      "question": "What is the main energy source in most circuits?",
+      "options": [
+        "Battery",
+        "Switch",
+        "LED",
+        "Motor"
+      ],
+      "answer": "Battery"
+    },
+    {
+      "number": 37,
+      "question": "Which component converts electrical energy to sound?",
+      "options": [
+        "Buzzer",
+        "LED",
+        "LDR",
+        "Capacitor"
+      ],
+      "answer": "Buzzer"
+    },
+    {
+      "number": 38,
+      "question": "In Tinkercad, the Start Simulation button is used to...",
+      "options": [
+        "Run the circuit virtually",
+        "Stop the circuit",
+        "Save project",
+        "Turn on light"
+      ],
+      "answer": "Run the circuit virtually"
+    },
+    {
+      "number": 39,
+      "question": "What color wire is commonly used for ground?",
+      "options": [
+        "Red",
+        "Black",
+        "Blue",
+        "Yellow"
+      ],
+      "answer": "Black"
+    },
+    {
+      "number": 40,
+      "question": "The output device in a light circuit is the...",
+      "options": [
+        "LDR",
+        "LED",
+        "Switch",
+        "Resistor"
+      ],
+      "answer": "LED"
+    },
+    {
+      "number": 41,
+      "question": "The input device in a light circuit is the...",
+      "options": [
+        "LDR",
+        "LED",
+        "Motor",
+        "Resistor"
+      ],
+      "answer": "LDR"
+    },
+    {
+      "number": 42,
+      "question": "When the LDR detects darkness, the LED...",
+      "options": [
+        "Turns off",
+        "Turns on",
+        "Blinks",
+        "Makes sound"
+      ],
+      "answer": "Turns on"
+    },
+    {
+      "number": 43,
+      "question": "What does the delay(1000); command do in Arduino code?",
+      "options": [
+        "Stops the code forever",
+        "Waits for 1 second",
+        "Increases brightness",
+        "Ends the program"
+      ],
+      "answer": "Waits for 1 second"
+    },
+    {
+      "number": 44,
+      "question": "Which part of Tinkercad displays your components?",
+      "options": [
+        "Code editor",
+        "Circuit workspace",
+        "Output panel",
+        "Toolbar"
+      ],
+      "answer": "Circuit workspace"
+    },
+    {
+      "number": 45,
+      "question": "What happens when too much current flows through an LED?",
+      "options": [
+        "It glows brighter",
+        "It burns out",
+        "It cools down",
+        "It charges the battery"
+      ],
+      "answer": "It burns out"
+    },
+    {
+      "number": 46,
+      "question": "Which component is both input and output?",
+      "options": [
+        "Ultrasonic sensor",
+        "Buzzer",
+        "LED",
+        "Motor"
+      ],
+      "answer": "Ultrasonic sensor"
+    },
+    {
+      "number": 47,
+      "question": "Which command in Arduino is used to start serial communication?",
+      "options": [
+        "startSerial();",
+        "Serial.begin(9600);",
+        "connectPort();",
+        "serialRun();"
+      ],
+      "answer": "Serial.begin(9600);"
+    },
+    {
+      "number": 48,
+      "question": "What is the advantage of simulating circuits in Tinkercad?",
+      "options": [
+        "You can test without real components",
+        "It makes drawings",
+        "It charges batteries",
+        "It builds hardware automatically"
+      ],
+      "answer": "You can test without real components"
+    },
+    {
+      "number": 49,
+      "question": "What should you always do after finishing your project?",
+      "options": [
+        "Delete it",
+        "Save it",
+        "Forget it",
+        "Exit immediately"
+      ],
+      "answer": "Save it"
+    },
+    {
+      "number": 50,
+      "question": "Tinkercad helps students learn...",
+      "options": [
+        "Only theory",
+        "Practical electronics and coding",
+        "Only 3D printing",
+        "Painting"
+      ],
+      "answer": "Practical electronics and coding"
+    }
   ]
-
-
-
-
-
-
-
-
-
-
 
