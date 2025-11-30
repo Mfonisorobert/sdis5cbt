@@ -1,553 +1,552 @@
- [
+[
     {
       "number": 1,
-      "question": "What is Tinkercad mainly used for?",
+      "question": "The primary function of the legislature is to",
       "options": [
-        "Drawing and painting",
-        "Circuit design and 3D modeling",
-        "Music composition",
-        "Typing practice"
+        "confirm appointments made by executives",
+        "control government expenditure",
+        "investigate public grievances",
+        "make laws"
       ],
-      "answer": "Circuit design and 3D modeling"
+      "answer": "make laws"
     },
     {
       "number": 2,
-      "question": "Tinkercad Circuits allows users to simulate...",
+      "question": "Which of the following attributes promotes interpersonal relationship in the society?",
       "options": [
-        "Real-life electronic projects",
-        "Video games",
-        "Cooking recipes",
-        "3D animation"
+        "Awareness",
+        "Desperation",
+        "Reliability",
+        "Smartness"
       ],
-      "answer": "Real-life electronic projects"
+      "answer": "Awareness"
     },
     {
       "number": 3,
-      "question": "Which company created Tinkercad?",
+      "question": "Which of the following is a cause of political apathy?",
       "options": [
-        "Apple",
-        "Autodesk",
-        "Microsoft",
-        "Meta"
+        "Absence of formidable pressure group",
+        "Form of government in practice",
+        "Lack of ideology",
+        "Party system"
       ],
-      "answer": "Autodesk"
+      "answer": "Absence of formidable pressure group"
     },
     {
       "number": 4,
-      "question": "To access Tinkercad, you must first...",
+      "question": "The constructive criticism of government policies depict",
       "options": [
-        "Install software",
-        "Visit the Tinkercad website",
-        "Buy a CD",
-        "Connect a robot"
+        "active participation in politics",
+        "confidence in the political administration",
+        "hatred of the authority",
+        "indifferent attitude towards politics"
       ],
-      "answer": "Visit the Tinkercad website"
+      "answer": "active participation in politics"
     },
     {
       "number": 5,
-      "question": "The small computer board used in Tinkercad circuits is called...",
+      "question": "Which of the following is an effect of a failed family?",
       "options": [
-        "Raspberry Pi",
-        "Arduino Uno",
-        "Micro:bit",
-        "ESP32"
+        "Accountable leadership",
+        "Buoyant economy",
+        "Healthy citizenry",
+        "Moral decadence"
       ],
-      "answer": "Arduino Uno"
+      "answer": "Moral decadence"
     },
     {
       "number": 6,
-      "question": "What is the main purpose of a resistor in a circuit?",
+      "question": "Parents can discourage abuse of drugs among youths by",
       "options": [
-        "To increase voltage",
-        "To limit current flow",
-        "To generate sound",
-        "To store energy"
+        "allowing them to participate in meaningful social programmes",
+        "encouraging them to have value for wealth",
+        "introducing them to alternative medical practices",
+        "motivating them to study medical courses"
       ],
-      "answer": "To limit current flow"
+      "answer": "allowing them to participate in meaningful social programmes"
     },
     {
       "number": 7,
-      "question": "The unit of resistance is measured in...",
+      "question": "An example of a country practicing one party system is",
       "options": [
-        "Volts",
-        "Amperes",
-        "Ohms",
-        "Watts"
+        "China",
+        "France",
+        "Germany",
+        "Italy"
       ],
-      "answer": "Ohms"
+      "answer": "China"
     },
     {
       "number": 8,
-      "question": "Which component in Tinkercad lights up when powered?",
+      "question": "Responsible parenthood implies that, spouses recognise and perform their duties towards their _____ effectively.",
       "options": [
-        "Buzzer",
-        "Motor",
-        "LED",
-        "Capacitor"
+        "ancestors",
+        "community",
+        "leaders",
+        "off springs"
       ],
-      "answer": "LED"
+      "answer": "off springs"
     },
     {
       "number": 9,
-      "question": "What does LED stand for?",
+      "question": "The Headquarters of National Drug Law Enforcement Agency is located in",
       "options": [
-        "Light Electric Device",
-        "Light Emitting Diode",
-        "Low Energy Display",
-        "Light Energy Detector"
+        "Abuja",
+        "Calabar",
+        "Enugu",
+        "Lagos"
       ],
-      "answer": "Light Emitting Diode"
+      "answer": "Abuja"
     },
     {
       "number": 10,
-      "question": "The long leg of an LED is called the...",
+      "question": "The act of excessive use of substances is termed drug",
       "options": [
-        "Cathode",
-        "Anode",
-        "Resistor",
-        "Terminal"
+        "abuse",
+        "application",
+        "distribution",
+        "prescription"
       ],
-      "answer": "Anode"
+      "answer": "abuse"
     },
     {
       "number": 11,
-      "question": "A breadboard is used for...",
+      "question": "The major role of NAFDAC is to",
       "options": [
-        "Baking bread",
-        "Testing circuits without soldering",
-        "Measuring resistance",
-        "Drawing circuit diagrams"
+        "coordinate all drug laws",
+        "eliminate all forms of illicit drugs",
+        "eradicate cultivation of narcotic plants",
+        "regulate the importation of foods and drugs"
       ],
-      "answer": "Testing circuits without soldering"
+      "answer": "regulate the importation of foods and drugs"
     },
     {
       "number": 12,
-      "question": "What connects components together on a breadboard?",
+      "question": "Popular participation can be achieved through the following means except",
       "options": [
-        "Metal strips",
-        "Plastic wires",
-        "Magnets",
-        "Wooden pins"
+        "consultation",
+        "debate",
+        "election",
+        "media"
       ],
-      "answer": "Metal strips"
+      "answer": "election"
     },
     {
       "number": 13,
-      "question": "What does the color code on resistors represent?",
+      "question": "National Drug Law Enforcement Agency was established in",
       "options": [
-        "Brand name",
-        "Resistance value",
-        "Voltage rating",
-        "Country of origin"
+        "1988",
+        "1989",
+        "1990",
+        "1991"
       ],
-      "answer": "Resistance value"
+      "answer": "1989"
     },
     {
       "number": 14,
-      "question": "Which pin on Arduino is used for ground connection?",
+      "question": "The principle that prohibits public servants from participating in partisan politics is",
       "options": [
-        "VIN",
-        "5V",
-        "GND",
-        "A0"
+        "anonymity",
+        "expertise",
+        "impartiality",
+        "neutrality"
       ],
-      "answer": "GND"
+      "answer": "neutrality"
     },
     {
       "number": 15,
-      "question": "The 5V pin on Arduino provides...",
+      "question": "For a foreigner to be granted citizenship by naturalisation in Nigeria, the person must be",
       "options": [
-        "Input voltage",
-        "Output voltage",
-        "Ground signal",
-        "PWM signal"
+        "a famous member of the society",
+        "a registered member in another country",
+        "less than eighteen years of age",
+        "of good and enviable character"
       ],
-      "answer": "Output voltage"
+      "answer": "of good and enviable character"
     },
     {
       "number": 16,
-      "question": "What does the “+” rail on a breadboard represent?",
+      "question": "A child born to Nigerian parents living abroad can acquire citizenship by",
       "options": [
-        "Ground",
-        "Positive voltage",
-        "Data pin",
-        "Control line"
+        "adoption",
+        "birth",
+        "conferment",
+        "naturalisation"
       ],
-      "answer": "Positive voltage"
+      "answer": "birth"
     },
     {
       "number": 17,
-      "question": "A buzzer in Tinkercad produces...",
+      "question": "A citizen who votes in an election is said to have performed a ____ obligation.",
       "options": [
-        "Light",
-        "Sound",
-        "Heat",
-        "Movement"
+        "cultural",
+        "moral",
+        "political",
+        "religious"
       ],
-      "answer": "Sound"
+      "answer": "political"
     },
     {
       "number": 18,
-      "question": "What does the Arduino IDE do?",
+      "question": "Engaging in profitable venture is an example of ____ right.",
       "options": [
-        "Runs mobile apps",
-        "Writes and uploads code to Arduino",
-        "Charges the battery",
-        "Measures current"
+        "economic",
+        "legal",
+        "political",
+        "religious"
       ],
-      "answer": "Writes and uploads code to Arduino"
+      "answer": "economic"
     },
     {
       "number": 19,
-      "question": "In Arduino code, every line ends with...",
+      "question": "The fundamental requirement in a marital relationship is",
       "options": [
-        "Comma",
-        "Full stop",
-        "Semicolon",
-        "Colon"
+        "beauty",
+        "career",
+        "eloquence",
+        "tolerance"
       ],
-      "answer": "Semicolon"
+      "answer": "tolerance"
     },
     {
       "number": 20,
-      "question": "What function runs continuously in Arduino code?",
+      "question": "Inter-communal relationships can be promoted through",
       "options": [
-        "setup()",
-        "loop()",
-        "run()",
-        "start()"
+        "Competition",
+        "litigation",
+        "pride",
+        "tranquility"
       ],
-      "answer": "loop()"
+      "answer": "tranquility"
     },
     {
       "number": 21,
-      "question": "The function that runs once when the Arduino starts is...",
+      "question": "An example of primary social group is",
       "options": [
-        "begin()",
-        "setup()",
-        "repeat()",
-        "restart()"
+        "club",
+        "family",
+        "market",
+        "school"
       ],
-      "answer": "setup()"
+      "answer": "family"
     },
     {
       "number": 22,
-      "question": "What is the function of a sensor?",
+      "question": "Political participation can be enhanced through",
       "options": [
-        "To store energy",
-        "To detect changes in the environment",
-        "To create movement",
-        "To light LEDs"
+        "academic qualifications",
+        "campaigns and rallies",
+        "demonstrations and strikes",
+        "religious beliefs"
       ],
-      "answer": "To detect changes in the environment"
+      "answer": "campaigns and rallies"
     },
     {
       "number": 23,
-      "question": "The LDR detects...",
+      "question": "The youth empowerment programme established by the administration of Goodluck Jonathan was",
       "options": [
-        "Sound",
-        "Light",
-        "Temperature",
-        "Touch"
+        "National Economic Empowerment Development Strategy",
+        "National Poverty Eradication Programme",
+        "Nigerian Federal Government Programme to Empower youth",
+        "Subsidy Reinvestment and Empowerment Programme"
       ],
-      "answer": "Light"
+      "answer": "Subsidy Reinvestment and Empowerment Programme"
     },
     {
       "number": 24,
-      "question": "A temperature sensor measures...",
+      "question": "The following are features of representative democracy except",
       "options": [
-        "Pressure",
-        "Heat",
-        "Vibration",
-        "Speed"
+        "electoral umpire",
+        "rule of law",
+        "selection of candidates",
+        "separation of powers"
       ],
-      "answer": "Heat"
+      "answer": "electoral umpire"
     },
     {
       "number": 25,
-      "question": "Which component stores electrical charge?",
+      "question": "Civil society groups aim at promoting ____ in the society.",
       "options": [
-        "Capacitor",
-        "Resistor",
-        "Switch",
-        "Diode"
+        "businesses",
+        "equality",
+        "peace",
+        "politics"
       ],
-      "answer": "Capacitor"
+      "answer": "peace"
     },
     {
       "number": 26,
-      "question": "A switch is used to...",
+      "question": "Constitutional monarchy is practiced in",
       "options": [
-        "Store data",
-        "Turn a circuit on or off",
-        "Produce sound",
-        "Measure current"
+        "Ghana",
+        "Kenya",
+        "Libya",
+        "Morocco"
       ],
-      "answer": "Turn a circuit on or off"
+      "answer": "Morocco"
     },
     {
       "number": 27,
-      "question": "The power supply for a circuit can come from...",
+      "question": "National Poverty Eradication Programme was established in",
       "options": [
-        "Battery",
-        "Water",
-        "Magnet",
-        "Candle"
+        "1986",
+        "1987",
+        "1997",
+        "1999"
       ],
-      "answer": "Battery"
+      "answer": "1999"
     },
     {
       "number": 28,
-      "question": "What is the role of jumper wires on a breadboard?",
+      "question": "The principles and ideas cherished by society constitute",
       "options": [
-        "Decoration",
-        "Connection between components",
-        "Cooling system",
-        "Power storage"
+        "value system",
+        "culture",
+        "fashion",
+        "religious belief"
       ],
-      "answer": "Connection between components"
+      "answer": "value system"
     },
     {
       "number": 29,
-      "question": "Which component converts electrical energy into motion?",
+      "question": "Which of the following is a product of skill acquisition programme?",
       "options": [
-        "LED",
-        "Buzzer",
-        "Motor",
-        "Sensor"
+        "Banking",
+        "Engineering",
+        "Nursing",
+        "Smithing"
       ],
-      "answer": "Motor"
+      "answer": "Smithing"
     },
     {
       "number": 30,
-      "question": "The Arduino board is powered by...",
+      "question": "Nigeria is presently operating the ___ republic and the ____ National Assembly.",
       "options": [
-        "Air",
-        "Electricity",
-        "Light",
-        "Sound"
+        "fifth/eighth",
+        "fourth/tenth",
+        "second/seventh",
+        "sixth/eleventh"
       ],
-      "answer": "Electricity"
+      "answer": "fourth/tenth"
     },
     {
       "number": 31,
-      "question": "Which pin type controls LED brightness in Arduino?",
+      "question": "Conflicts can best be resolved through",
       "options": [
-        "Digital input",
-        "Analog output (PWM)",
-        "Ground pin",
-        "Serial pin"
+        "consultation",
+        "dialogue",
+        "litigation",
+        "mediation"
       ],
-      "answer": "Analog output (PWM)"
+      "answer": "dialogue"
     },
     {
       "number": 32,
-      "question": "Which code command turns an LED ON in Arduino?",
+      "question": "The willingness to accept the views and opinions of others even when they are against ours is",
       "options": [
-        "digitalWrite(pin, HIGH);",
-        "turnLED(on);",
-        "pinStart(pin);",
-        "output(on);"
+        "harmony",
+        "honesty",
+        "love",
+        "tolerance"
       ],
-      "answer": "digitalWrite(pin, HIGH);"
+      "answer": "tolerance"
     },
     {
       "number": 33,
-      "question": "What is the first step when creating a new Tinkercad circuit?",
+      "question": "The concern to promote the welfare of others is ____ service.",
       "options": [
-        "Add components",
-        "Save file",
-        "Rename it",
-        "Login to your account"
+        "conditional",
+        "domestic",
+        "humanitarian",
+        "public"
       ],
-      "answer": "Login to your account"
+      "answer": "humanitarian"
     },
     {
       "number": 34,
-      "question": "The Arduino Uno has how many digital pins?",
+      "question": "Which of the following is an example of civil society organisation?",
       "options": [
-        "8",
-        "10",
-        "14",
-        "20"
+        "Alliance for Democracy",
+        "Campaign for Democracy and Human Rights",
+        "Liberty Party",
+        "Nigeria Shippers Council"
       ],
-      "answer": "14"
+      "answer": "Nigeria Shippers Council"
     },
     {
       "number": 35,
-      "question": "Analog pins on Arduino are labeled as...",
+      "question": "The major source of funding civil society organisations is through",
       "options": [
-        "A0–A5",
-        "D1–D6",
-        "P1–P6",
-        "1–6"
+        "donations",
+        "grants",
+        "loans",
+        "rates"
       ],
-      "answer": "A0–A5"
+      "answer": "donations"
     },
     {
       "number": 36,
-      "question": "What is the main energy source in most circuits?",
+      "question": "Which of the following is not a benefit of popular participation?",
       "options": [
-        "Battery",
-        "Switch",
-        "LED",
-        "Motor"
+        "Youth restiveness",
+        "Good governance",
+        "Quality service",
+        "Social cohesion"
       ],
-      "answer": "Battery"
+      "answer": "Youth restiveness"
     },
     {
       "number": 37,
-      "question": "Which component converts electrical energy to sound?",
+      "question": "Political apathy is usually caused by",
       "options": [
-        "Buzzer",
-        "LED",
-        "LDR",
-        "Capacitor"
+        "a free and democratic society",
+        "engaging in debates",
+        "failed electoral processes",
+        "good leadership"
       ],
-      "answer": "Buzzer"
+      "answer": "failed electoral processes"
     },
     {
       "number": 38,
-      "question": "In Tinkercad, the Start Simulation button is used to...",
+      "question": "The ____ constitution was the first to provide for executive presidency in Nigeria.",
       "options": [
-        "Run the circuit virtually",
-        "Stop the circuit",
-        "Save project",
-        "Turn on light"
+        "1960",
+        "1963",
+        "1979",
+        "1989"
       ],
-      "answer": "Run the circuit virtually"
+      "answer": "1979"
     },
     {
       "number": 39,
-      "question": "What color wire is commonly used for ground?",
+      "question": "The quality of being honest and having strong moral principles defines",
       "options": [
-        "Red",
-        "Black",
-        "Blue",
-        "Yellow"
+        "determination",
+        "diligence",
+        "integrity",
+        "justice"
       ],
-      "answer": "Black"
+      "answer": "integrity"
     },
     {
       "number": 40,
-      "question": "The output device in a light circuit is the...",
+      "question": "Which of the following organisations is non-governmental?",
       "options": [
-        "LDR",
-        "LED",
-        "Switch",
-        "Resistor"
+        "Independent National Electoral Commission",
+        "National Boundary Commission",
+        "National Broadcasting Corporation",
+        "Nigeria Labour Congress"
       ],
-      "answer": "LED"
+      "answer": "Nigeria Labour Congress"
     },
     {
       "number": 41,
-      "question": "The input device in a light circuit is the...",
+      "question": "Drug abuse is associated with",
       "options": [
-        "LDR",
-        "LED",
-        "Motor",
-        "Resistor"
+        "having psychological depression",
+        "high level of excitement",
+        "increased work performance",
+        "socialising with people"
       ],
-      "answer": "LDR"
+      "answer": "having psychological depression"
     },
     {
       "number": 42,
-      "question": "When the LDR detects darkness, the LED...",
+      "question": "The traffic sign coded with red circle depicts",
       "options": [
-        "Turns off",
-        "Turns on",
-        "Blinks",
-        "Makes sound"
+        "do not overtake",
+        "one-way",
+        "pedestrian crossing",
+        "stop"
       ],
-      "answer": "Turns on"
+      "answer": "stop"
     },
     {
       "number": 43,
-      "question": "What does the delay(1000); command do in Arduino code?",
+      "question": "Adherence to road signs can lead to",
       "options": [
-        "Stops the code forever",
-        "Waits for 1 second",
-        "Increases brightness",
-        "Ends the program"
+        "free flow of traffic",
+        "loss of lives and property",
+        "loss of man-hour",
+        "road accident"
       ],
-      "answer": "Waits for 1 second"
+      "answer": "free flow of traffic"
     },
     {
       "number": 44,
-      "question": "Which part of Tinkercad displays your components?",
+      "question": "Protecting critical national assets is the major duty of the",
       "options": [
-        "Code editor",
-        "Circuit workspace",
-        "Output panel",
-        "Toolbar"
+        "Armed Forces",
+        "Directorate of State Security Services",
+        "Nigeria Customs Service",
+        "Nigeria Security and Civil Defence Corps"
       ],
-      "answer": "Circuit workspace"
+      "answer": "Nigeria Security and Civil Defence Corps"
     },
     {
       "number": 45,
-      "question": "What happens when too much current flows through an LED?",
+      "question": "Political apathy can be discouraged through",
       "options": [
-        "It glows brighter",
-        "It burns out",
-        "It cools down",
-        "It charges the battery"
+        "cohesion",
+        "intimidation",
+        "socialisation",
+        "rehabilitation"
       ],
-      "answer": "It burns out"
+      "answer": "socialisation"
     },
     {
       "number": 46,
-      "question": "Which component is both input and output?",
+      "question": "Which of the following could hinder development in society?",
       "options": [
-        "Ultrasonic sensor",
-        "Buzzer",
-        "LED",
-        "Motor"
+        "Deceit",
+        "Endurance",
+        "Harmony",
+        "Peace"
       ],
-      "answer": "Ultrasonic sensor"
+      "answer": "Deceit"
     },
     {
       "number": 47,
-      "question": "Which command in Arduino is used to start serial communication?",
+      "question": "Obedience to rules and regulations without being coerced is",
       "options": [
-        "startSerial();",
-        "Serial.begin(9600);",
-        "connectPort();",
-        "serialRun();"
+        "diligence",
+        "discipline",
+        "humility",
+        "integrity"
       ],
-      "answer": "Serial.begin(9600);"
+      "answer": "humility"
     },
     {
       "number": 48,
-      "question": "What is the advantage of simulating circuits in Tinkercad?",
+      "question": "The political culture of a country is said to be participatory, if",
       "options": [
-        "You can test without real components",
-        "It makes drawings",
-        "It charges batteries",
-        "It builds hardware automatically"
+        "aristocracy is practiced",
+        "franchise is operated",
+        "one party system operates",
+        "political actors are imposed"
       ],
-      "answer": "You can test without real components"
+      "answer": "franchise is operated"
     },
     {
       "number": 49,
-      "question": "What should you always do after finishing your project?",
+      "question": "A bill passed by the National Assembly and assented by the executive president becomes",
       "options": [
-        "Delete it",
-        "Save it",
-        "Forget it",
-        "Exit immediately"
+        "act of parliament",
+        "bye-law",
+        "constitutional law",
+        "customary jurisprudence"
       ],
-      "answer": "Save it"
+      "answer": "constitutional law"
     },
     {
       "number": 50,
-      "question": "Tinkercad helps students learn...",
+      "question": "Which of the following is not a function of the judicial arm of government?",
       "options": [
-        "Only theory",
-        "Practical electronics and coding",
-        "Only 3D printing",
-        "Painting"
+        "Formulating foreign policies",
+        "Interpreting law",
+        "Punishing offenders",
+        "Safeguarding citizens' rights"
       ],
-      "answer": "Practical electronics and coding"
+      "answer": "Formulating foreign policies"
     }
   ]
-
