@@ -1,552 +1,322 @@
-[
+  [
     {
       "number": 1,
-      "question": "The primary function of the legislature is to",
-      "options": [
-        "confirm appointments made by executives",
-        "control government expenditure",
-        "investigate public grievances",
-        "make laws"
-      ],
-      "answer": "make laws"
+      "question": "Which of the following is used for measuring liquids in the laboratory?",
+      "options": ["funnels", "test tubes", "beakers", "hand lens"],
+      "answer": "beakers"
     },
     {
       "number": 2,
-      "question": "Which of the following attributes promotes interpersonal relationship in the society?",
-      "options": [
-        "Awareness",
-        "Desperation",
-        "Reliability",
-        "Smartness"
-      ],
-      "answer": "Awareness"
+      "question": "The branch of science that studies matter in relation to energy is",
+      "options": ["biology", "chemistry", "physics", "agriculture"],
+      "answer": "physics"
     },
     {
       "number": 3,
-      "question": "Which of the following is a cause of political apathy?",
-      "options": [
-        "Absence of formidable pressure group",
-        "Form of government in practice",
-        "Lack of ideology",
-        "Party system"
-      ],
-      "answer": "Absence of formidable pressure group"
+      "question": "Living things perform the following functions except",
+      "options": ["movement", "respiration", "saturation", "reproduction"],
+      "answer": "saturation"
     },
     {
       "number": 4,
-      "question": "The constructive criticism of government policies depict",
-      "options": [
-        "active participation in politics",
-        "confidence in the political administration",
-        "hatred of the authority",
-        "indifferent attitude towards politics"
-      ],
-      "answer": "active participation in politics"
+      "question": "Anything that has mass and occupies space is known",
+      "options": ["metals", "solid", "matter", "liquid"],
+      "answer": "matter"
     },
     {
       "number": 5,
-      "question": "Which of the following is an effect of a failed family?",
-      "options": [
-        "Accountable leadership",
-        "Buoyant economy",
-        "Healthy citizenry",
-        "Moral decadence"
-      ],
-      "answer": "Moral decadence"
+      "question": "Matter exists in the following state except",
+      "options": ["solid", "liquid", "exchange", "gas"],
+      "answer": "exchange"
     },
     {
       "number": 6,
-      "question": "Parents can discourage abuse of drugs among youths by",
-      "options": [
-        "allowing them to participate in meaningful social programmes",
-        "encouraging them to have value for wealth",
-        "introducing them to alternative medical practices",
-        "motivating them to study medical courses"
-      ],
-      "answer": "allowing them to participate in meaningful social programmes"
+      "question": "The ability of living organism to respond to stimuli is known as",
+      "options": ["irrigation", "nutrition", "respiration", "irritability"],
+      "answer": "irritability"
     },
     {
       "number": 7,
-      "question": "An example of a country practicing one party system is",
+      "question": "Which of the following best describe science?",
       "options": [
-        "China",
-        "France",
-        "Germany",
-        "Italy"
+        "knowledge about natural world based on facts learned through experiments",
+        "basic knowledge about human beings",
+        "knowledge about how to make experiments which we learned at school",
+        "none of the above"
       ],
-      "answer": "China"
+      "answer": "knowledge about natural world based on facts learned through experiments"
     },
     {
       "number": 8,
-      "question": "Responsible parenthood implies that, spouses recognise and perform their duties towards their _____ effectively.",
-      "options": [
-        "ancestors",
-        "community",
-        "leaders",
-        "off springs"
-      ],
-      "answer": "off springs"
+      "question": "The process by which plants manufacture their own food in the presence of sunlight is known as",
+      "options": ["transpiration", "photosynthesis", "chemosynthesis", "evaporation"],
+      "answer": "photosynthesis"
     },
     {
       "number": 9,
-      "question": "The Headquarters of National Drug Law Enforcement Agency is located in",
-      "options": [
-        "Abuja",
-        "Calabar",
-        "Enugu",
-        "Lagos"
-      ],
-      "answer": "Abuja"
+      "question": "Food substances that help to repair worn out tissues are called",
+      "options": ["mineral salts", "vitamins", "carbohydrates", "proteins"],
+      "answer": "proteins"
     },
     {
       "number": 10,
-      "question": "The act of excessive use of substances is termed drug",
-      "options": [
-        "abuse",
-        "application",
-        "distribution",
-        "prescription"
-      ],
-      "answer": "abuse"
+      "question": "The three elements present in carbohydrates are",
+      "options": ["carbon, hydrogen, oxygen", "carbon, nitrogen, oxygen", "carbon, oxygen, calcium", "carbon, nitrogen, oxygen"],
+      "answer": "carbon, hydrogen, oxygen"
     },
     {
       "number": 11,
-      "question": "The major role of NAFDAC is to",
-      "options": [
-        "coordinate all drug laws",
-        "eliminate all forms of illicit drugs",
-        "eradicate cultivation of narcotic plants",
-        "regulate the importation of foods and drugs"
-      ],
-      "answer": "regulate the importation of foods and drugs"
+      "question": "The function of fats and oil in the body is to",
+      "options": ["boost immunity", "build the body", "keep the body warm", "Make the body strong"],
+      "answer": "keep the body warm"
     },
     {
       "number": 12,
-      "question": "Popular participation can be achieved through the following means except",
-      "options": [
-        "consultation",
-        "debate",
-        "election",
-        "media"
-      ],
-      "answer": "election"
+      "question": "A good method of disposing refuse is by throwing them",
+      "options": ["inside pit to form compost", "into gutters when it is raining", "into nearby bushes", "on the streets at night"],
+      "answer": "inside pit to form compost"
     },
     {
       "number": 13,
-      "question": "National Drug Law Enforcement Agency was established in",
+      "question": "The following are importance of science except",
       "options": [
-        "1988",
-        "1989",
-        "1990",
-        "1991"
+        "it helps in solving everyday problems",
+        "it helps in discovery of natural resources",
+        "it helps in converting raw materials into finished products",
+        "it leads to increase in bullying of other scientist."
       ],
-      "answer": "1989"
+      "answer": "it leads to increase in bullying of other scientist."
     },
     {
       "number": 14,
-      "question": "The principle that prohibits public servants from participating in partisan politics is",
-      "options": [
-        "anonymity",
-        "expertise",
-        "impartiality",
-        "neutrality"
-      ],
-      "answer": "neutrality"
+      "question": "All the following help in the maintenance of good health except",
+      "options": ["eating balanced diet", "avoid drinking alcohol", "smoking cigarettes", "regular exercise"],
+      "answer": "smoking cigarettes"
     },
     {
       "number": 15,
-      "question": "For a foreigner to be granted citizenship by naturalisation in Nigeria, the person must be",
-      "options": [
-        "a famous member of the society",
-        "a registered member in another country",
-        "less than eighteen years of age",
-        "of good and enviable character"
-      ],
-      "answer": "of good and enviable character"
+      "question": "The following are disadvantages of poor personal hygiene except",
+      "options": ["poor health", "body and mouth odor", "spread of diseases", "good health"],
+      "answer": "good health"
     },
     {
       "number": 16,
-      "question": "A child born to Nigerian parents living abroad can acquire citizenship by",
-      "options": [
-        "adoption",
-        "birth",
-        "conferment",
-        "naturalisation"
-      ],
-      "answer": "birth"
+      "question": "How many classes of food is contained in a balanced diet?",
+      "options": ["6", "5", "4", "3"],
+      "answer": "6"
     },
     {
       "number": 17,
-      "question": "A citizen who votes in an election is said to have performed a ____ obligation.",
-      "options": [
-        "cultural",
-        "moral",
-        "political",
-        "religious"
-      ],
-      "answer": "political"
+      "question": "The outer layer of animal cell is known as",
+      "options": ["cell membrane", "cytoplasm", "nucleus", "nuclear membrane"],
+      "answer": "cell membrane"
     },
     {
       "number": 18,
-      "question": "Engaging in profitable venture is an example of ____ right.",
-      "options": [
-        "economic",
-        "legal",
-        "political",
-        "religious"
-      ],
-      "answer": "economic"
+      "question": "The process by which ice block changes to water is known as",
+      "options": ["boiling", "condensing", "melting", "freezing"],
+      "answer": "melting"
     },
     {
       "number": 19,
-      "question": "The fundamental requirement in a marital relationship is",
-      "options": [
-        "beauty",
-        "career",
-        "eloquence",
-        "tolerance"
-      ],
-      "answer": "tolerance"
+      "question": "The temperature at which a liquid changes freely into vapor is called its _____ point",
+      "options": ["boiling", "cooling", "vaporizing", "melting"],
+      "answer": "boiling"
     },
     {
       "number": 20,
-      "question": "Inter-communal relationships can be promoted through",
-      "options": [
-        "Competition",
-        "litigation",
-        "pride",
-        "tranquility"
-      ],
-      "answer": "tranquility"
+      "question": "A substance that can affect the structure or functions of a living organism is known as",
+      "options": ["drug", "food", "water", "vitamin"],
+      "answer": "drug"
     },
     {
       "number": 21,
-      "question": "An example of primary social group is",
-      "options": [
-        "club",
-        "family",
-        "market",
-        "school"
-      ],
-      "answer": "family"
+      "question": "A diet that contains all the six classes of food in the right proportion is called ____ diet",
+      "options": ["complete", "delicious", "balanced", "comprehensive"],
+      "answer": "balanced"
     },
     {
       "number": 22,
-      "question": "Political participation can be enhanced through",
-      "options": [
-        "academic qualifications",
-        "campaigns and rallies",
-        "demonstrations and strikes",
-        "religious beliefs"
-      ],
-      "answer": "campaigns and rallies"
+      "question": "Which of the following is an example of carbohydrate",
+      "options": ["milk", "rice", "beans", "egg"],
+      "answer": "rice"
     },
     {
       "number": 23,
-      "question": "The youth empowerment programme established by the administration of Goodluck Jonathan was",
-      "options": [
-        "National Economic Empowerment Development Strategy",
-        "National Poverty Eradication Programme",
-        "Nigerian Federal Government Programme to Empower youth",
-        "Subsidy Reinvestment and Empowerment Programme"
-      ],
-      "answer": "Subsidy Reinvestment and Empowerment Programme"
+      "question": "Which of these is not a major function of food",
+      "options": ["to provide energy", "to sustain life", "to make us fairer", "to make us grow"],
+      "answer": "to make us fairer"
     },
     {
       "number": 24,
-      "question": "The following are features of representative democracy except",
-      "options": [
-        "electoral umpire",
-        "rule of law",
-        "selection of candidates",
-        "separation of powers"
-      ],
-      "answer": "electoral umpire"
+      "question": "The reasons why youth abuse drugs are the following except",
+      "options": ["curiosity", "lack of confidence", "peer group pressure", "to find purpose and direction"],
+      "answer": "to find purpose and direction"
     },
     {
       "number": 25,
-      "question": "Civil society groups aim at promoting ____ in the society.",
-      "options": [
-        "businesses",
-        "equality",
-        "peace",
-        "politics"
-      ],
-      "answer": "peace"
+      "question": "The science of preserving and improving health is called",
+      "options": ["hygiene", "cleanliness", "environmental sanitation", "nutrition"],
+      "answer": "hygiene"
     },
     {
       "number": 26,
-      "question": "Constitutional monarchy is practiced in",
-      "options": [
-        "Ghana",
-        "Kenya",
-        "Libya",
-        "Morocco"
-      ],
-      "answer": "Morocco"
+      "question": "The study of Basic Technology helps students to",
+      "options": ["learn foreign languages", "understand how things work", "cook different meals", "play musical instruments"],
+      "answer": "understand how things work"
     },
     {
       "number": 27,
-      "question": "National Poverty Eradication Programme was established in",
-      "options": [
-        "1986",
-        "1987",
-        "1997",
-        "1999"
-      ],
-      "answer": "1999"
+      "question": "Which of the following is a hand tool?",
+      "options": ["Lathe machine", "Hammer", "Generator", "Electric motor"],
+      "answer": "Hammer"
     },
     {
       "number": 28,
-      "question": "The principles and ideas cherished by society constitute",
-      "options": [
-        "value system",
-        "culture",
-        "fashion",
-        "religious belief"
-      ],
-      "answer": "value system"
+      "question": "The main sources of energy include all except",
+      "options": ["Solar", "Wind", "Water", "Plastic"],
+      "answer": "Plastic"
     },
     {
       "number": 29,
-      "question": "Which of the following is a product of skill acquisition programme?",
-      "options": [
-        "Banking",
-        "Engineering",
-        "Nursing",
-        "Smithing"
-      ],
-      "answer": "Smithing"
+      "question": "A person who designs buildings is called?",
+      "options": ["Doctor", "Architect", "Carpenter", "Teacher"],
+      "answer": "Architect"
     },
     {
       "number": 30,
-      "question": "Nigeria is presently operating the ___ republic and the ____ National Assembly.",
-      "options": [
-        "fifth/eighth",
-        "fourth/tenth",
-        "second/seventh",
-        "sixth/eleventh"
-      ],
-      "answer": "fourth/tenth"
+      "question": "The process of joining two pieces of metal by heating is known as?",
+      "options": ["Casting", "Soldering", "Painting", "Cutting"],
+      "answer": "Soldering"
     },
     {
       "number": 31,
-      "question": "Conflicts can best be resolved through",
-      "options": [
-        "consultation",
-        "dialogue",
-        "litigation",
-        "mediation"
-      ],
-      "answer": "dialogue"
+      "question": "The material used to make electric wires is mostly",
+      "options": ["Iron", "Copper", "Wood", "Rubber"],
+      "answer": "Copper"
     },
     {
       "number": 32,
-      "question": "The willingness to accept the views and opinions of others even when they are against ours is",
-      "options": [
-        "harmony",
-        "honesty",
-        "love",
-        "tolerance"
-      ],
-      "answer": "tolerance"
+      "question": "The drawing instrument used to draw circles is called",
+      "options": ["Divider", "Compass", "Set square", "T-square"],
+      "answer": "Compass"
     },
     {
       "number": 33,
-      "question": "The concern to promote the welfare of others is ____ service.",
-      "options": [
-        "conditional",
-        "domestic",
-        "humanitarian",
-        "public"
-      ],
-      "answer": "humanitarian"
+      "question": "Which of these is not a workshop safety rule?",
+      "options": ["Run inside the workshop", "Wear protective clothing", "Keep tools clean after use", "Report damaged tools"],
+      "answer": "Run inside the workshop"
     },
     {
       "number": 34,
-      "question": "Which of the following is an example of civil society organisation?",
-      "options": [
-        "Alliance for Democracy",
-        "Campaign for Democracy and Human Rights",
-        "Liberty Party",
-        "Nigeria Shippers Council"
-      ],
-      "answer": "Nigeria Shippers Council"
+      "question": "The symbol for a battery in circuit diagram is",
+      "options": ["□", "⊕⊖", "││", "+ −"],
+      "answer": "+ −"
     },
     {
       "number": 35,
-      "question": "The major source of funding civil society organisations is through",
-      "options": [
-        "donations",
-        "grants",
-        "loans",
-        "rates"
-      ],
-      "answer": "donations"
+      "question": "The part of a drawing board that holds the paper is called",
+      "options": ["Tee", "Edge", "Clamp", "Frame"],
+      "answer": "Clamp"
     },
     {
       "number": 36,
-      "question": "Which of the following is not a benefit of popular participation?",
-      "options": [
-        "Youth restiveness",
-        "Good governance",
-        "Quality service",
-        "Social cohesion"
-      ],
-      "answer": "Youth restiveness"
+      "question": "The two main types of wood are",
+      "options": ["Hard and soft wood", "Big and small wood", "Dry and wet wood", "Red and white wood"],
+      "answer": "Hard and soft wood"
     },
     {
       "number": 37,
-      "question": "Political apathy is usually caused by",
-      "options": [
-        "a free and democratic society",
-        "engaging in debates",
-        "failed electoral processes",
-        "good leadership"
-      ],
-      "answer": "failed electoral processes"
+      "question": "Metals that can be magnetized are called",
+      "options": ["Non-ferrous metals", "Ferrous metals", "Soft metals", "Precious metals"],
+      "answer": "Ferrous metals"
     },
     {
       "number": 38,
-      "question": "The ____ constitution was the first to provide for executive presidency in Nigeria.",
-      "options": [
-        "1960",
-        "1963",
-        "1979",
-        "1989"
-      ],
-      "answer": "1979"
+      "question": "The safety color for danger is",
+      "options": ["Blue", "Yellow", "Red", "Green"],
+      "answer": "Red"
     },
     {
       "number": 39,
-      "question": "The quality of being honest and having strong moral principles defines",
-      "options": [
-        "determination",
-        "diligence",
-        "integrity",
-        "justice"
-      ],
-      "answer": "integrity"
+      "question": "The process of changing logs into planks is called",
+      "options": ["Polishing", "Sawing", "Painting", "Planning"],
+      "answer": "Sawing"
     },
     {
       "number": 40,
-      "question": "Which of the following organisations is non-governmental?",
+      "question": "The major part of a simple electrical circuit includes",
       "options": [
-        "Independent National Electoral Commission",
-        "National Boundary Commission",
-        "National Broadcasting Corporation",
-        "Nigeria Labour Congress"
+        "Switch, bulb, battery, wire",
+        "Battery, pipe, wheel, glass",
+        "Motor, fan, pipe, bulb",
+        "Fan, radio, light, car"
       ],
-      "answer": "Nigeria Labour Congress"
+      "answer": "Switch, bulb, battery, wire"
     },
     {
       "number": 41,
-      "question": "Drug abuse is associated with",
-      "options": [
-        "having psychological depression",
-        "high level of excitement",
-        "increased work performance",
-        "socialising with people"
-      ],
-      "answer": "having psychological depression"
+      "question": "A tool used to tighten or loosen nuts is a",
+      "options": ["Pliers", "Wrench", "Chisel", "Hammer"],
+      "answer": "Wrench"
     },
     {
       "number": 42,
-      "question": "The traffic sign coded with red circle depicts",
-      "options": [
-        "do not overtake",
-        "one-way",
-        "pedestrian crossing",
-        "stop"
-      ],
-      "answer": "stop"
+      "question": "The shape of a drawing board is usually",
+      "options": ["Circular", "Rectangular", "Triangular", "Oval"],
+      "answer": "Rectangular"
     },
     {
       "number": 43,
-      "question": "Adherence to road signs can lead to",
-      "options": [
-        "free flow of traffic",
-        "loss of lives and property",
-        "loss of man-hour",
-        "road accident"
-      ],
-      "answer": "free flow of traffic"
+      "question": "Which of the following is a non-metallic material?",
+      "options": ["Iron", "Plastic", "Copper", "Aluminum"],
+      "answer": "Plastic"
     },
     {
       "number": 44,
-      "question": "Protecting critical national assets is the major duty of the",
-      "options": [
-        "Armed Forces",
-        "Directorate of State Security Services",
-        "Nigeria Customs Service",
-        "Nigeria Security and Civil Defence Corps"
-      ],
-      "answer": "Nigeria Security and Civil Defence Corps"
+      "question": "The act of protecting the body from harm in the workshop is called",
+      "options": ["Safety", "Drawing", "Woodwork", "Metalwork"],
+      "answer": "Safety"
     },
     {
       "number": 45,
-      "question": "Political apathy can be discouraged through",
-      "options": [
-        "cohesion",
-        "intimidation",
-        "socialisation",
-        "rehabilitation"
-      ],
-      "answer": "socialisation"
+      "question": "The use of lines, symbols, and measurements to show an object is called",
+      "options": ["Sketching", "Painting", "Technical drawing", "Coloring"],
+      "answer": "Technical drawing"
     },
     {
       "number": 46,
-      "question": "Which of the following could hinder development in society?",
-      "options": [
-        "Deceit",
-        "Endurance",
-        "Harmony",
-        "Peace"
-      ],
-      "answer": "Deceit"
+      "question": "The instrument used to measure length in millimeters is a",
+      "options": ["Meter rule", "Protractor", "Compass", "T-square"],
+      "answer": "Meter rule"
     },
     {
       "number": 47,
-      "question": "Obedience to rules and regulations without being coerced is",
-      "options": [
-        "diligence",
-        "discipline",
-        "humility",
-        "integrity"
-      ],
-      "answer": "humility"
+      "question": "Which of the following is a renewable source of energy?",
+      "options": ["Coal", "Petrol", "Wind", "Diesel"],
+      "answer": "Wind"
     },
     {
       "number": 48,
-      "question": "The political culture of a country is said to be participatory, if",
-      "options": [
-        "aristocracy is practiced",
-        "franchise is operated",
-        "one party system operates",
-        "political actors are imposed"
-      ],
-      "answer": "franchise is operated"
+      "question": "The act of melting metal and pouring it into mould is called",
+      "options": ["Forging", "Casting", "Soldering", "Filing"],
+      "answer": "Casting"
     },
     {
       "number": 49,
-      "question": "A bill passed by the National Assembly and assented by the executive president becomes",
-      "options": [
-        "act of parliament",
-        "bye-law",
-        "constitutional law",
-        "customary jurisprudence"
-      ],
-      "answer": "constitutional law"
+      "question": "The set square is mainly used for drawing",
+      "options": ["Curves", "Circles", "Angles", "Arcs"],
+      "answer": "Angles"
     },
     {
       "number": 50,
-      "question": "Which of the following is not a function of the judicial arm of government?",
+      "question": "In Basic Technology, ICT means",
       "options": [
-        "Formulating foreign policies",
-        "Interpreting law",
-        "Punishing offenders",
-        "Safeguarding citizens' rights"
+        "International Communication Technology",
+        "Information and Communication Technology",
+        "Intelligent Computer Technology",
+        "Integrated Coding Tools"
       ],
-      "answer": "Formulating foreign policies"
+      "answer": "Information and Communication Technology"
     }
   ]
