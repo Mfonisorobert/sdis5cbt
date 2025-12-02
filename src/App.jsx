@@ -117,7 +117,7 @@ const [hasStarted, setHasStarted] = useState(false);
 // const handleSubmit = () => {
 //   const confirmSubmit = confirm("Are you sure you want to submit your answers?");
 //   if (!confirmSubmit) return;
-
+{
   let totalScore = 0;
   questions.forEach((q, index) => {
     if (answers[index] === q.answer) {
