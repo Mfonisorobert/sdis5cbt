@@ -1,322 +1,52 @@
-  [
-    {
-      "number": 1,
-      "question": "Which of the following is used for measuring liquids in the laboratory?",
-      "options": ["funnels", "test tubes", "beakers", "hand lens"],
-      "answer": "beakers"
-    },
-    {
-      "number": 2,
-      "question": "The branch of science that studies matter in relation to energy is",
-      "options": ["biology", "chemistry", "physics", "agriculture"],
-      "answer": "physics"
-    },
-    {
-      "number": 3,
-      "question": "Living things perform the following functions except",
-      "options": ["movement", "respiration", "saturation", "reproduction"],
-      "answer": "saturation"
-    },
-    {
-      "number": 4,
-      "question": "Anything that has mass and occupies space is known",
-      "options": ["metals", "solid", "matter", "liquid"],
-      "answer": "matter"
-    },
-    {
-      "number": 5,
-      "question": "Matter exists in the following state except",
-      "options": ["solid", "liquid", "exchange", "gas"],
-      "answer": "exchange"
-    },
-    {
-      "number": 6,
-      "question": "The ability of living organism to respond to stimuli is known as",
-      "options": ["irrigation", "nutrition", "respiration", "irritability"],
-      "answer": "irritability"
-    },
-    {
-      "number": 7,
-      "question": "Which of the following best describe science?",
-      "options": [
-        "knowledge about natural world based on facts learned through experiments",
-        "basic knowledge about human beings",
-        "knowledge about how to make experiments which we learned at school",
-        "none of the above"
-      ],
-      "answer": "knowledge about natural world based on facts learned through experiments"
-    },
-    {
-      "number": 8,
-      "question": "The process by which plants manufacture their own food in the presence of sunlight is known as",
-      "options": ["transpiration", "photosynthesis", "chemosynthesis", "evaporation"],
-      "answer": "photosynthesis"
-    },
-    {
-      "number": 9,
-      "question": "Food substances that help to repair worn out tissues are called",
-      "options": ["mineral salts", "vitamins", "carbohydrates", "proteins"],
-      "answer": "proteins"
-    },
-    {
-      "number": 10,
-      "question": "The three elements present in carbohydrates are",
-      "options": ["carbon, hydrogen, oxygen", "carbon, nitrogen, oxygen", "carbon, oxygen, calcium", "carbon, nitrogen, oxygen"],
-      "answer": "carbon, hydrogen, oxygen"
-    },
-    {
-      "number": 11,
-      "question": "The function of fats and oil in the body is to",
-      "options": ["boost immunity", "build the body", "keep the body warm", "Make the body strong"],
-      "answer": "keep the body warm"
-    },
-    {
-      "number": 12,
-      "question": "A good method of disposing refuse is by throwing them",
-      "options": ["inside pit to form compost", "into gutters when it is raining", "into nearby bushes", "on the streets at night"],
-      "answer": "inside pit to form compost"
-    },
-    {
-      "number": 13,
-      "question": "The following are importance of science except",
-      "options": [
-        "it helps in solving everyday problems",
-        "it helps in discovery of natural resources",
-        "it helps in converting raw materials into finished products",
-        "it leads to increase in bullying of other scientist."
-      ],
-      "answer": "it leads to increase in bullying of other scientist."
-    },
-    {
-      "number": 14,
-      "question": "All the following help in the maintenance of good health except",
-      "options": ["eating balanced diet", "avoid drinking alcohol", "smoking cigarettes", "regular exercise"],
-      "answer": "smoking cigarettes"
-    },
-    {
-      "number": 15,
-      "question": "The following are disadvantages of poor personal hygiene except",
-      "options": ["poor health", "body and mouth odor", "spread of diseases", "good health"],
-      "answer": "good health"
-    },
-    {
-      "number": 16,
-      "question": "How many classes of food is contained in a balanced diet?",
-      "options": ["6", "5", "4", "3"],
-      "answer": "6"
-    },
-    {
-      "number": 17,
-      "question": "The outer layer of animal cell is known as",
-      "options": ["cell membrane", "cytoplasm", "nucleus", "nuclear membrane"],
-      "answer": "cell membrane"
-    },
-    {
-      "number": 18,
-      "question": "The process by which ice block changes to water is known as",
-      "options": ["boiling", "condensing", "melting", "freezing"],
-      "answer": "melting"
-    },
-    {
-      "number": 19,
-      "question": "The temperature at which a liquid changes freely into vapor is called its _____ point",
-      "options": ["boiling", "cooling", "vaporizing", "melting"],
-      "answer": "boiling"
-    },
-    {
-      "number": 20,
-      "question": "A substance that can affect the structure or functions of a living organism is known as",
-      "options": ["drug", "food", "water", "vitamin"],
-      "answer": "drug"
-    },
-    {
-      "number": 21,
-      "question": "A diet that contains all the six classes of food in the right proportion is called ____ diet",
-      "options": ["complete", "delicious", "balanced", "comprehensive"],
-      "answer": "balanced"
-    },
-    {
-      "number": 22,
-      "question": "Which of the following is an example of carbohydrate",
-      "options": ["milk", "rice", "beans", "egg"],
-      "answer": "rice"
-    },
-    {
-      "number": 23,
-      "question": "Which of these is not a major function of food",
-      "options": ["to provide energy", "to sustain life", "to make us fairer", "to make us grow"],
-      "answer": "to make us fairer"
-    },
-    {
-      "number": 24,
-      "question": "The reasons why youth abuse drugs are the following except",
-      "options": ["curiosity", "lack of confidence", "peer group pressure", "to find purpose and direction"],
-      "answer": "to find purpose and direction"
-    },
-    {
-      "number": 25,
-      "question": "The science of preserving and improving health is called",
-      "options": ["hygiene", "cleanliness", "environmental sanitation", "nutrition"],
-      "answer": "hygiene"
-    },
-    {
-      "number": 26,
-      "question": "The study of Basic Technology helps students to",
-      "options": ["learn foreign languages", "understand how things work", "cook different meals", "play musical instruments"],
-      "answer": "understand how things work"
-    },
-    {
-      "number": 27,
-      "question": "Which of the following is a hand tool?",
-      "options": ["Lathe machine", "Hammer", "Generator", "Electric motor"],
-      "answer": "Hammer"
-    },
-    {
-      "number": 28,
-      "question": "The main sources of energy include all except",
-      "options": ["Solar", "Wind", "Water", "Plastic"],
-      "answer": "Plastic"
-    },
-    {
-      "number": 29,
-      "question": "A person who designs buildings is called?",
-      "options": ["Doctor", "Architect", "Carpenter", "Teacher"],
-      "answer": "Architect"
-    },
-    {
-      "number": 30,
-      "question": "The process of joining two pieces of metal by heating is known as?",
-      "options": ["Casting", "Soldering", "Painting", "Cutting"],
-      "answer": "Soldering"
-    },
-    {
-      "number": 31,
-      "question": "The material used to make electric wires is mostly",
-      "options": ["Iron", "Copper", "Wood", "Rubber"],
-      "answer": "Copper"
-    },
-    {
-      "number": 32,
-      "question": "The drawing instrument used to draw circles is called",
-      "options": ["Divider", "Compass", "Set square", "T-square"],
-      "answer": "Compass"
-    },
-    {
-      "number": 33,
-      "question": "Which of these is not a workshop safety rule?",
-      "options": ["Run inside the workshop", "Wear protective clothing", "Keep tools clean after use", "Report damaged tools"],
-      "answer": "Run inside the workshop"
-    },
-    {
-      "number": 34,
-      "question": "The symbol for a battery in circuit diagram is",
-      "options": ["□", "⊕⊖", "││", "+ −"],
-      "answer": "+ −"
-    },
-    {
-      "number": 35,
-      "question": "The part of a drawing board that holds the paper is called",
-      "options": ["Tee", "Edge", "Clamp", "Frame"],
-      "answer": "Clamp"
-    },
-    {
-      "number": 36,
-      "question": "The two main types of wood are",
-      "options": ["Hard and soft wood", "Big and small wood", "Dry and wet wood", "Red and white wood"],
-      "answer": "Hard and soft wood"
-    },
-    {
-      "number": 37,
-      "question": "Metals that can be magnetized are called",
-      "options": ["Non-ferrous metals", "Ferrous metals", "Soft metals", "Precious metals"],
-      "answer": "Ferrous metals"
-    },
-    {
-      "number": 38,
-      "question": "The safety color for danger is",
-      "options": ["Blue", "Yellow", "Red", "Green"],
-      "answer": "Red"
-    },
-    {
-      "number": 39,
-      "question": "The process of changing logs into planks is called",
-      "options": ["Polishing", "Sawing", "Painting", "Planning"],
-      "answer": "Sawing"
-    },
-    {
-      "number": 40,
-      "question": "The major part of a simple electrical circuit includes",
-      "options": [
-        "Switch, bulb, battery, wire",
-        "Battery, pipe, wheel, glass",
-        "Motor, fan, pipe, bulb",
-        "Fan, radio, light, car"
-      ],
-      "answer": "Switch, bulb, battery, wire"
-    },
-    {
-      "number": 41,
-      "question": "A tool used to tighten or loosen nuts is a",
-      "options": ["Pliers", "Wrench", "Chisel", "Hammer"],
-      "answer": "Wrench"
-    },
-    {
-      "number": 42,
-      "question": "The shape of a drawing board is usually",
-      "options": ["Circular", "Rectangular", "Triangular", "Oval"],
-      "answer": "Rectangular"
-    },
-    {
-      "number": 43,
-      "question": "Which of the following is a non-metallic material?",
-      "options": ["Iron", "Plastic", "Copper", "Aluminum"],
-      "answer": "Plastic"
-    },
-    {
-      "number": 44,
-      "question": "The act of protecting the body from harm in the workshop is called",
-      "options": ["Safety", "Drawing", "Woodwork", "Metalwork"],
-      "answer": "Safety"
-    },
-    {
-      "number": 45,
-      "question": "The use of lines, symbols, and measurements to show an object is called",
-      "options": ["Sketching", "Painting", "Technical drawing", "Coloring"],
-      "answer": "Technical drawing"
-    },
-    {
-      "number": 46,
-      "question": "The instrument used to measure length in millimeters is a",
-      "options": ["Meter rule", "Protractor", "Compass", "T-square"],
-      "answer": "Meter rule"
-    },
-    {
-      "number": 47,
-      "question": "Which of the following is a renewable source of energy?",
-      "options": ["Coal", "Petrol", "Wind", "Diesel"],
-      "answer": "Wind"
-    },
-    {
-      "number": 48,
-      "question": "The act of melting metal and pouring it into mould is called",
-      "options": ["Forging", "Casting", "Soldering", "Filing"],
-      "answer": "Casting"
-    },
-    {
-      "number": 49,
-      "question": "The set square is mainly used for drawing",
-      "options": ["Curves", "Circles", "Angles", "Arcs"],
-      "answer": "Angles"
-    },
-    {
-      "number": 50,
-      "question": "In Basic Technology, ICT means",
-      "options": [
-        "International Communication Technology",
-        "Information and Communication Technology",
-        "Intelligent Computer Technology",
-        "Integrated Coding Tools"
-      ],
-      "answer": "Information and Communication Technology"
-    }
+ [
+    {"number":1,"question":"What is the primary function of the pinMode() command in Arduino?","options":["Reads input from sensors","Sets a pin as input or output","Turns on the LED","Delays the program"],"answer":"Sets a pin as input or output"},
+    {"number":2,"question":"Which of the following can be used as digital input?","options":["LED","Push button","Buzzer","Servo motor"],"answer":"Push button"},
+    {"number":3,"question":"Which of the following is an example of digital output?","options":["LDR","Potentiometer","LED","Thermistor"],"answer":"LED"},
+    {"number":4,"question":"What is the correct way to set pin 9 as an OUTPUT?","options":["digitalWrite(9, OUTPUT);","pinMode(9, OUTPUT);","pinMode(OUTPUT, 9);","digitalWrite(OUTPUT, 9);"],"answer":"pinMode(9, OUTPUT);"},
+    {"number":5,"question":"Which command turns an LED connected to pin 8 ON?","options":["digitalWrite(8, HIGH);","digitalWrite(8, LOW);","pinMode(8, INPUT);","delay(8);"],"answer":"digitalWrite(8, HIGH);"},
+    {"number":6,"question":"The code provided blinks the LED every 500 ms. What does delay(500); do?","options":["Runs loop continuously","Waits 0.5 seconds","Turns LED off","Starts the program"],"answer":"Waits 0.5 seconds"},
+    {"number":7,"question":"What does the void loop() function do?","options":["Runs once at the start","Repeats code indefinitely","Stores variables","Displays data"],"answer":"Repeats code indefinitely"},
+    {"number":8,"question":"Which pin on Arduino Uno is used for the built-in LED?","options":["2","7","13","5"],"answer":"13"},
+    {"number":9,"question":"What happens if you connect an LED without a resistor?","options":["LED glows safely","LED may burn out","LED blinks automatically","Nothing happens"],"answer":"LED may burn out"},
+    {"number":10,"question":"Which component converts electrical signals into sound?","options":["LED","Buzzer","LDR","Button"],"answer":"Buzzer"},
+    {"number":11,"question":"What is the purpose of a push button in a circuit?","options":["Supply power","Control input","Store energy","Limit current"],"answer":"Control input"},
+    {"number":12,"question":"Which code reads the state of a button connected to pin 2?","options":["digitalWrite(2);","digitalRead(2);","pinMode(2, OUTPUT);","delay(2);"],"answer":"digitalRead(2);"},
+    {"number":13,"question":"What is the meaning of HIGH in Arduino digital signal?","options":["0 volts","5 volts (logic 1)","Analog signal","PWM output"],"answer":"5 volts (logic 1)"},
+    {"number":14,"question":"What is the meaning of LOW in Arduino digital signal?","options":["0 volts (logic 0)","5 volts","Analog voltage","Input mode"],"answer":"0 volts (logic 0)"},
+    {"number":15,"question":"Which of the following is an analog input device?","options":["LED","LDR","Buzzer","Button"],"answer":"LDR"},
+    {"number":16,"question":"Which of the following is a key advantage of block-level programming for beginners?","options":["Requires fast typing","Uses drag-and-drop visual blocks","Only works on professional projects","Needs advanced math"],"answer":"Uses drag-and-drop visual blocks"},
+    {"number":17,"question":"In a traffic light simulation, which sequence is correct?","options":["Green → Yellow → Red","Red → Green → Yellow","Yellow → Red → Green","Red → Yellow → Green"],"answer":"Red → Green → Yellow"},
+    {"number":18,"question":"Which code is used to turn a buzzer on pin 8 ON?","options":["pinMode(8, INPUT);","digitalWrite(8, HIGH);","digitalRead(8);","delay(8);"],"answer":"digitalWrite(8, HIGH);"},
+    {"number":19,"question":"The Arduino command Serial.begin(9600); does what?","options":["Sets up LED","Initializes Serial communication at 9600 bps","Reads analog voltage","Turns on buzzer"],"answer":"Initializes Serial communication at 9600 bps"},
+    {"number":20,"question":"What is the default voltage of Arduino digital HIGH?","options":["3V","5V","9V","12V"],"answer":"5V"},
+    {"number":21,"question":"Which pin is used for ground?","options":["5V","GND","Vin","A0"],"answer":"GND"},
+    {"number":22,"question":"Which component detects light?","options":["LED","LDR","Buzzer","Switch"],"answer":"LDR"},
+    {"number":23,"question":"Which component detects temperature?","options":["Thermistor","LED","Servo motor","Buzzer"],"answer":"Thermistor"},
+    {"number":24,"question":"What happens if digitalRead() returns HIGH?","options":["Voltage is 0V","Voltage is HIGH (logic 1)","Pin is damaged","Pin is LOW"],"answer":"Voltage is HIGH (logic 1)"},
+    {"number":25,"question":"The statement int led = 13; means:","options":["LED is turned on","Assigns pin 13 to variable led","LED blinks automatically","LED is powered"],"answer":"Assigns pin 13 to variable led"},
+    {"number":26,"question":"What does the following code do?\\n digitalWrite(9, HIGH); delay(1000); digitalWrite(9, LOW);","options":["LED on pin 9 blinks ON for 1 second","LED always OFF","LED fades","LED stays ON"],"answer":"LED on pin 9 blinks ON for 1 second"},
+    {"number":27,"question":"Which component is used to detect motion?","options":["PIR sensor","LED","Resistor","Button"],"answer":"PIR sensor"},
+    {"number":28,"question":"Which of these programs is an example of block-level programming?","options":["Python","C++","Scratch","JavaScript"],"answer":"Scratch"},
+    {"number":29,"question":"Which code reads motion from a PIR sensor on pin 4?","options":["digitalRead(4);","digitalWrite(4, HIGH);","pinMode(4, OUTPUT);","delay(4);"],"answer":"digitalRead(4);"},
+    {"number":30,"question":"In a simple door alarm, which component produces sound?","options":["LED","Buzzer","Button","Resistor"],"answer":"Buzzer"},
+    {"number":31,"question":"Which command turns off a digital output?","options":["digitalRead(pin);","digitalWrite(pin, LOW);","pinMode(pin, INPUT);","delay();"],"answer":"digitalWrite(pin, LOW);"},
+    {"number":32,"question":"Which code repeats a task indefinitely?","options":["void setup()","void loop()","delay()","Serial.print()"],"answer":"void loop()"},
+    {"number":33,"question":"What is the purpose of using a resistor with an LED?","options":["Limit current to prevent damage","Increase voltage","Blink automatically","Store energy"],"answer":"Limit current to prevent damage"},
+    {"number":34,"question":"Which pin type is used to control a servo motor?","options":["Analog pin","Digital pin","PWM-capable digital pin","GND"],"answer":"PWM-capable digital pin"},
+    {"number":35,"question":"Which function is used to control a servo angle?","options":["digitalWrite()","servo.write(angle);","analogRead()","pinMode()"],"answer":"servo.write(angle);"},
+    {"number":36,"question":"In a two-LED alternator code, LEDs blink alternately using which command?","options":["delay()","digitalWrite()","analogRead()","Serial.begin()"],"answer":"digitalWrite()"},
+    {"number":37,"question":"Which type of sensor can detect temperature and light at the same time?","options":["LDR","Thermistor","Combined sensor module","PIR"],"answer":"Combined sensor module"},
+    {"number":38,"question":"What happens if a digital pin is set as OUTPUT but nothing is connected?","options":["Pin is damaged","Pin outputs HIGH or LOW but nothing happens","LED turns on automatically","Board stops"],"answer":"Pin outputs HIGH or LOW but nothing happens"},
+    {"number":39,"question":"Which code reads HIGH/LOW from pin 2 and turns pin 13 LED ON when HIGH?","options":["if(digitalRead(2) == HIGH) digitalWrite(13, HIGH);","digitalWrite(2, HIGH);","pinMode(13, INPUT);","delay(2);"],"answer":"if(digitalRead(2) == HIGH) digitalWrite(13, HIGH);"},
+    {"number":40,"question":"What is PWM used for?","options":["Read digital input","Simulate analog output (LED brightness, motor speed)","Turn off Arduino","Measure voltage"],"answer":"Simulate analog output (LED brightness, motor speed)"},
+    {"number":41,"question":"Which component can act as both input and output?","options":["Servo motor","LED","Buzzer","Button"],"answer":"Button"},
+    {"number":42,"question":"Which pin type is suitable for reading analog voltage?","options":["Digital","Analog","PWM","Power"],"answer":"Analog"},
+    {"number":43,"question":"Which Arduino command pauses the program for a defined time?","options":["delay(ms);","digitalWrite();","pinMode();","digitalRead();"],"answer":"delay(ms);"},
+    {"number":44,"question":"Why is block-level programming recommended for first-time coders?","options":["It is very difficult","It allows beginners to learn programming logic without syntax errors","It requires memorizing all commands","It only works for robotics"],"answer":"It allows beginners to learn programming logic without syntax errors"},
+    {"number":45,"question":"Which component converts light to resistance?","options":["LDR","LED","Buzzer","Switch"],"answer":"LDR"},
+    {"number":46,"question":"Which Arduino pin provides 5V output?","options":["GND","5V","A0","D13"],"answer":"5V"},
+    {"number":47,"question":"Which statement is true about digital Write(pin, HIGH)?","options":["Sends HIGH voltage to pin","Reads the pin","Sets pin as INPUT","Delays program"],"answer":"Sends HIGH voltage to pin"},
+    {"number":48,"question":"Which project uses two LEDs and a button to make a simple ON/OFF indicator?","options":["Traffic light","Alarm system","LED toggle switch","Door sensor"],"answer":"LED toggle switch"},
+    {"number":49,"question":"Which pin can you use to read an analog sensor and convert it to digital logic?","options":["Digital pin","Analog pin with threshold logic","GND","5V"],"answer":"Analog pin with threshold logic"},
+    {"number":50,"question":"What is the function of Serial.print()?","options":["Blink LED","Display text or value on Serial Monitor","Read analog signal","Control servo"],"answer":"Display text or value on Serial Monitor"}
   ]
