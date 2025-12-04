@@ -15,7 +15,7 @@
     {"number":14,"question":"What is the meaning of LOW in Arduino digital signal?","options":["0 volts (logic 0)","5 volts","Analog voltage","Input mode"],"answer":"0 volts (logic 0)"},
     {"number":15,"question":"Which of the following is an analog input device?","options":["LED","LDR","Buzzer","Button"],"answer":"LDR"},
     {"number":16,"question":"Which of the following is a key advantage of block-level programming for beginners?","options":["Requires fast typing","Uses drag-and-drop visual blocks","Only works on professional projects","Needs advanced math"],"answer":"Uses drag-and-drop visual blocks"},
-    {"number":17,"question":"In a traffic light simulation, which sequence is correct?","options":["Green → Yellow → Red","Red → Green → Yellow","Yellow → Red → Green","Red → Yellow → Green"],"answer":"Red → Green → Yellow"},
+    {"number":17,"question":"In a traffic light simulation, which sequence is correct?","options":["Green → Yellow → Red","Red → Green → Yellow","Yellow → Red → Green","Red → Yellow → Green"],"answer":"Red → Yellow → Green"},
     {"number":18,"question":"Which code is used to turn a buzzer on pin 8 ON?","options":["pinMode(8, INPUT);","digitalWrite(8, HIGH);","digitalRead(8);","delay(8);"],"answer":"digitalWrite(8, HIGH);"},
     {"number":19,"question":"The Arduino command Serial.begin(9600); does what?","options":["Sets up LED","Initializes Serial communication at 9600 bps","Reads analog voltage","Turns on buzzer"],"answer":"Initializes Serial communication at 9600 bps"},
     {"number":20,"question":"What is the default voltage of Arduino digital HIGH?","options":["3V","5V","9V","12V"],"answer":"5V"},
